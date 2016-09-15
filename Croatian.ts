@@ -71,7 +71,7 @@
     <message>
         <location filename="cap3400.cpp" line="807"/>
         <source>Analyse d&apos;opacité</source>
-        <translation type="unfinished"></translation>
+        <translation>Provjera zacrnjenosti</translation>
     </message>
     <message>
         <location filename="cap3400.cpp" line="815"/>
@@ -290,13 +290,13 @@
         <location filename="cap3400.cpp" line="1173"/>
         <source>Vehicule
  ≥ 01/10/86</source>
-        <translation>Vozila  ≥01/10/86</translation>
+        <translation>Vozila ≥01/10/86</translation>
     </message>
     <message>
         <location filename="cap3400.cpp" line="1174"/>
         <source>Vehicule
  ≤ 30/09/86</source>
-        <translation>Vozila  ≤ 30/09/86</translation>
+        <translation>Vozila ≤ 30/09/86</translation>
     </message>
     <message>
         <location filename="cap3400.cpp" line="1188"/>
@@ -306,12 +306,12 @@
     <message>
         <location filename="cap3400.cpp" line="1189"/>
         <source>Vehicle  ≤ 30/09/86</source>
-        <translation>Vozila  ≤ 30/09/86</translation>
+        <translation>Vozila ≤ 30/09/86</translation>
     </message>
     <message>
         <location filename="cap3400.cpp" line="1190"/>
         <source>Vehicle  ≥01/10/86</source>
-        <translation>Vozila  ≥01/10/86</translation>
+        <translation>Vozila ≥01/10/86</translation>
     </message>
     <message>
         <location filename="cap3400.cpp" line="1215"/>
@@ -319,7 +319,7 @@
         <location filename="cap3400.cpp" line="1280"/>
         <location filename="cap3400.cpp" line="1297"/>
         <source>Turbo Vehicle</source>
-        <translation>Vozila sa turbom</translation>
+        <translation>Vozila sa turbinom</translation>
     </message>
     <message>
         <location filename="cap3400.cpp" line="1216"/>
@@ -560,7 +560,7 @@
     <message>
         <location filename="cap3400.cpp" line="1586"/>
         <source>Settings StandBy Screen</source>
-        <translation type="unfinished">Postavke </translation>
+        <translation>Postavke ekrana u mirovanju</translation>
     </message>
     <message>
         <location filename="cap3400.cpp" line="1587"/>
@@ -709,7 +709,7 @@ PROBLEM NEPROPUSNOSTI</translation>
         <location filename="cap3400.cpp" line="6285"/>
         <location filename="cap3400.cpp" line="6291"/>
         <source>Password:</source>
-        <translation>Password:</translation>
+        <translation>Lozinka:</translation>
     </message>
     <message>
         <location filename="cap3400.cpp" line="6350"/>
@@ -753,7 +753,7 @@ i ažuriranje će biti gotovo</translation>
     <message>
         <location filename="cap3400.cpp" line="7624"/>
         <source>Remote Control is launching...</source>
-        <translation type="unfinished"></translation>
+        <translation>Daljinski upravljač se pokreće...</translation>
     </message>
 </context>
 <context>
@@ -936,7 +936,7 @@ i ažuriranje će biti gotovo</translation>
     <message>
         <location filename="GAZ/Calibration.cpp" line="744"/>
         <source>Delta Detector Temperature:</source>
-        <translation type="unfinished"></translation>
+        <translation>Delta mjerač temperature:</translation>
     </message>
     <message>
         <location filename="GAZ/Calibration.cpp" line="851"/>
@@ -1134,12 +1134,12 @@ i ažuriranje će biti gotovo</translation>
     <message>
         <location filename="GAZ/Calibration.cpp" line="1573"/>
         <source>Real Value:</source>
-        <translation type="unfinished"></translation>
+        <translation>Stvarna vrijednost:</translation>
     </message>
     <message>
         <location filename="GAZ/Calibration.cpp" line="1573"/>
         <source>Voltage Calibration Value:</source>
-        <translation type="unfinished"></translation>
+        <translation>Vrijednost kalibriranog napona:</translation>
     </message>
     <message>
         <location filename="GAZ/Calibration.cpp" line="1578"/>
@@ -1218,7 +1218,7 @@ i ažuriranje će biti gotovo</translation>
     <message>
         <location filename="GAZ/Calibration.cpp" line="1874"/>
         <source>Measure Cell</source>
-        <translation type="unfinished">Mjerna komora</translation>
+        <translation>Mjerna komora</translation>
     </message>
 </context>
 <context>
@@ -1234,7 +1234,7 @@ i ažuriranje će biti gotovo</translation>
     <message>
         <location filename="classconfig.cpp" line="977"/>
         <source>AUTO SELECTION</source>
-        <translation type="unfinished"></translation>
+        <translation>AUTOMATSKI ODABIR</translation>
     </message>
     <message>
         <location filename="classconfig.cpp" line="981"/>
@@ -1244,12 +1244,12 @@ i ažuriranje će biti gotovo</translation>
     <message>
         <location filename="classconfig.cpp" line="985"/>
         <source>IP AUTO</source>
-        <translation type="unfinished"></translation>
+        <translation>IP AUTO</translation>
     </message>
     <message>
         <location filename="classconfig.cpp" line="1007"/>
         <source>TYPE CONVERTISSEUR</source>
-        <translation type="unfinished"></translation>
+        <translation>PRETVARAČ TIPA</translation>
     </message>
     <message>
         <location filename="classconfig.cpp" line="1009"/>
@@ -1314,7 +1314,7 @@ i ažuriranje će biti gotovo</translation>
     <message>
         <location filename="classconfig.cpp" line="951"/>
         <source>IP:</source>
-        <translation type="unfinished"></translation>
+        <translation>IP:</translation>
     </message>
     <message>
         <location filename="classconfig.cpp" line="951"/>
@@ -1329,7 +1329,7 @@ i ažuriranje će biti gotovo</translation>
     <message>
         <location filename="classconfig.cpp" line="951"/>
         <source>PASSWORD:</source>
-        <translation type="unfinished"></translation>
+        <translation>LOZINKA:</translation>
     </message>
     <message>
         <location filename="classconfig.cpp" line="951"/>
@@ -1339,7 +1339,7 @@ i ažuriranje će biti gotovo</translation>
     <message>
         <location filename="classconfig.cpp" line="951"/>
         <source>DNS:</source>
-        <translation type="unfinished"></translation>
+        <translation>DNS:</translation>
     </message>
     <message>
         <location filename="classconfig.cpp" line="1976"/>
@@ -1371,7 +1371,7 @@ i ažuriranje će biti gotovo</translation>
     <message>
         <location filename="classconfig.cpp" line="1920"/>
         <source>IP NOT AVAILABLE</source>
-        <translation type="unfinished"></translation>
+        <translation>IP NIJE DOSTUPAN</translation>
     </message>
     <message>
         <location filename="classconfig.cpp" line="2162"/>
@@ -1398,43 +1398,43 @@ i ažuriranje će biti gotovo</translation>
         <location filename="classclient.cpp" line="504"/>
         <location filename="classclient.cpp" line="538"/>
         <source>Plate number:</source>
-        <translation type="unfinished"></translation>
+        <translation>Reg. pločica:</translation>
     </message>
     <message>
         <location filename="classclient.cpp" line="504"/>
         <location filename="classclient.cpp" line="538"/>
         <source>Manufacturer:</source>
-        <translation type="unfinished"></translation>
+        <translation>Proizvođač:</translation>
     </message>
     <message>
         <location filename="classclient.cpp" line="504"/>
         <location filename="classclient.cpp" line="538"/>
         <source>Type:</source>
-        <translation type="unfinished"></translation>
+        <translation>Tip:</translation>
     </message>
     <message>
         <location filename="classclient.cpp" line="504"/>
         <location filename="classclient.cpp" line="538"/>
         <location filename="classclient.cpp" line="572"/>
         <source>Cylindree (cm3):</source>
-        <translation type="unfinished"></translation>
+        <translation>Obujam (cm3):</translation>
     </message>
     <message>
         <location filename="classclient.cpp" line="504"/>
         <location filename="classclient.cpp" line="538"/>
         <source>Date of 1st registration:</source>
-        <translation type="unfinished"></translation>
+        <translation>Datum prve registracije:</translation>
     </message>
     <message>
         <location filename="classclient.cpp" line="538"/>
         <location filename="classclient.cpp" line="572"/>
         <source>Emission code:</source>
-        <translation type="unfinished"></translation>
+        <translation>Kod emisije:</translation>
     </message>
     <message>
         <location filename="classclient.cpp" line="538"/>
         <source>Odometre:</source>
-        <translation type="unfinished"></translation>
+        <translation>Prijeđeni kilometri:</translation>
     </message>
     <message>
         <location filename="classclient.cpp" line="572"/>
@@ -1449,7 +1449,7 @@ i ažuriranje će biti gotovo</translation>
     <message>
         <location filename="classclient.cpp" line="572"/>
         <source>Observation:</source>
-        <translation type="unfinished"></translation>
+        <translation>Bilješke:</translation>
     </message>
     <message>
         <location filename="classclient.cpp" line="608"/>
@@ -1466,7 +1466,7 @@ i ažuriranje će biti gotovo</translation>
     <message>
         <location filename="classclient.cpp" line="608"/>
         <source>LIMIT:</source>
-        <translation type="unfinished"></translation>
+        <translation>LIMIT:</translation>
     </message>
     <message>
         <location filename="classclient.cpp" line="610"/>
@@ -1481,25 +1481,25 @@ i ažuriranje će biti gotovo</translation>
         <location filename="classclientCzech.cpp" line="38"/>
         <location filename="classclientCzech.cpp" line="334"/>
         <source>Manufacturer</source>
-        <translation type="unfinished"></translation>
+        <translation>Proizvođač</translation>
     </message>
     <message>
         <location filename="classclientCzech.cpp" line="34"/>
         <location filename="classclientCzech.cpp" line="38"/>
         <source>Vehicle Model</source>
-        <translation type="unfinished"></translation>
+        <translation>Model vozila</translation>
     </message>
     <message>
         <location filename="classclientCzech.cpp" line="34"/>
         <location filename="classclientCzech.cpp" line="38"/>
         <source>Engine</source>
-        <translation type="unfinished"></translation>
+        <translation>Motor</translation>
     </message>
     <message>
         <location filename="classclientCzech.cpp" line="34"/>
         <location filename="classclientCzech.cpp" line="38"/>
         <source>Note</source>
-        <translation type="unfinished"></translation>
+        <translation>Bilješke</translation>
     </message>
     <message>
         <location filename="classclientCzech.cpp" line="34"/>
@@ -1611,12 +1611,12 @@ i ažuriranje će biti gotovo</translation>
     <message>
         <location filename="classclientCzech.cpp" line="335"/>
         <source>Date</source>
-        <translation type="unfinished"></translation>
+        <translation>Datum</translation>
     </message>
     <message>
         <location filename="classclientCzech.cpp" line="335"/>
         <source>Vehicle Category</source>
-        <translation type="unfinished">Kategorija vozila</translation>
+        <translation>Kategorija vozila</translation>
     </message>
     <message>
         <location filename="classclientCzech.cpp" line="335"/>
@@ -1870,7 +1870,7 @@ i ažuriranje će biti gotovo</translation>
         <location filename="classconfig.cpp" line="3172"/>
         <location filename="classconfig.cpp" line="3199"/>
         <source>Direction</source>
-        <translation>Smjer</translation>
+        <translation>Adresa</translation>
     </message>
     <message>
         <location filename="classconfig.cpp" line="3237"/>
@@ -1898,12 +1898,12 @@ i ažuriranje će biti gotovo</translation>
     <message>
         <location filename="classconfig.cpp" line="6210"/>
         <source>UPDATE</source>
-        <translation type="unfinished">UPDATE</translation>
+        <translation>AŽURIRANJE</translation>
     </message>
     <message>
         <location filename="classconfig.cpp" line="6229"/>
         <source>Update Management</source>
-        <translation type="unfinished"></translation>
+        <translation>Upravitelj ažuriranjima</translation>
     </message>
     <message>
         <location filename="classconfig.cpp" line="6244"/>
@@ -1928,17 +1928,17 @@ i ažuriranje će biti gotovo</translation>
     <message>
         <location filename="classconfig.cpp" line="6310"/>
         <source>EOBD</source>
-        <translation type="unfinished">EOBD</translation>
+        <translation>EOBD</translation>
     </message>
     <message>
         <location filename="classconfig.cpp" line="6323"/>
         <source>Eobd Settings</source>
-        <translation type="unfinished"></translation>
+        <translation>Postavke EOBD</translation>
     </message>
     <message>
         <location filename="classconfig.cpp" line="6358"/>
         <source>CONFIGURATION UPDATE</source>
-        <translation type="unfinished"></translation>
+        <translation>POSTAVKE AŽURIRANJA</translation>
     </message>
     <message>
         <location filename="classconfig.cpp" line="6361"/>
@@ -1958,7 +1958,7 @@ i ažuriranje će biti gotovo</translation>
     <message>
         <location filename="classconfig.cpp" line="6625"/>
         <source>INSTALLATION SUCCESFULLY</source>
-        <translation type="unfinished"></translation>
+        <translation>INSTALACIJA USPJEŠNA</translation>
     </message>
 </context>
 <context>
@@ -1971,12 +1971,12 @@ i ažuriranje će biti gotovo</translation>
     <message>
         <location filename="classconfig.cpp" line="5580"/>
         <source>&lt;=REV.E</source>
-        <translation type="unfinished"></translation>
+        <translation>&lt;=REV.E</translation>
     </message>
     <message>
         <location filename="classconfig.cpp" line="5583"/>
         <source>REV.F</source>
-        <translation type="unfinished"></translation>
+        <translation>REV.F</translation>
     </message>
     <message>
         <location filename="classconfig.cpp" line="5597"/>
@@ -2086,32 +2086,32 @@ i ažuriranje će biti gotovo</translation>
     <message>
         <location filename="classconfig.cpp" line="5980"/>
         <source>Smokemeter Type</source>
-        <translation type="unfinished"></translation>
+        <translation>Tip dimometra</translation>
     </message>
     <message>
         <location filename="classconfig.cpp" line="5986"/>
         <source>CAP3030</source>
-        <translation type="unfinished"></translation>
+        <translation>CAP3030</translation>
     </message>
     <message>
         <location filename="classconfig.cpp" line="5988"/>
         <source>CAP3040</source>
-        <translation type="unfinished"></translation>
+        <translation>CAP3040</translation>
     </message>
     <message>
         <location filename="classconfig.cpp" line="6001"/>
         <source>Log Acceleration</source>
-        <translation type="unfinished"></translation>
+        <translation>Logiranje ubrzanja</translation>
     </message>
     <message>
         <location filename="classconfig.cpp" line="6007"/>
         <source>ACTIVE</source>
-        <translation type="unfinished"></translation>
+        <translation>AKTIVNO</translation>
     </message>
     <message>
         <location filename="classconfig.cpp" line="6009"/>
         <source>INACTIVE</source>
-        <translation type="unfinished"></translation>
+        <translation>NIJE AKTIVNO</translation>
     </message>
 </context>
 <context>
@@ -2119,7 +2119,7 @@ i ažuriranje će biti gotovo</translation>
     <message>
         <location filename="classconfig.cpp" line="4486"/>
         <source>GAS</source>
-        <translation>Plin</translation>
+        <translation>PLIN</translation>
     </message>
     <message>
         <location filename="classconfig.cpp" line="4490"/>
@@ -2204,7 +2204,7 @@ i ažuriranje će biti gotovo</translation>
     <message>
         <location filename="classconfig.cpp" line="281"/>
         <source>Logo:</source>
-        <translation type="unfinished">Logo:</translation>
+        <translation>Logo:</translation>
     </message>
     <message>
         <location filename="classconfig.cpp" line="313"/>
@@ -2216,7 +2216,7 @@ i ažuriranje će biti gotovo</translation>
         <location filename="classconfig.cpp" line="313"/>
         <location filename="classconfig.cpp" line="315"/>
         <source>Direction:</source>
-        <translation>Smjer:</translation>
+        <translation>Adresa:</translation>
     </message>
     <message>
         <location filename="classconfig.cpp" line="313"/>
@@ -2260,13 +2260,13 @@ i ažuriranje će biti gotovo</translation>
         <location filename="classconfig.cpp" line="313"/>
         <location filename="classconfig.cpp" line="315"/>
         <source>Code:</source>
-        <translation type="unfinished"></translation>
+        <translation>Predbroj:</translation>
     </message>
     <message>
         <location filename="classconfig.cpp" line="313"/>
         <location filename="classconfig.cpp" line="315"/>
         <source>Mail:</source>
-        <translation type="unfinished"></translation>
+        <translation>E-mail:</translation>
     </message>
     <message>
         <location filename="classconfig.cpp" line="676"/>
@@ -2276,7 +2276,7 @@ i ažuriranje će biti gotovo</translation>
     <message>
         <location filename="classconfig.cpp" line="678"/>
         <source>Documents (*.jpg *.png);;All files (*.*)</source>
-        <translation type="unfinished"></translation>
+        <translation>Dokumenti.(*.jpg *.png);;Sve datoteke (*.*)</translation>
     </message>
 </context>
 <context>
@@ -2284,12 +2284,12 @@ i ažuriranje će biti gotovo</translation>
     <message>
         <location filename="CONFIGURATION/classConfigGaz.cpp" line="2011"/>
         <source>Sav Bench</source>
-        <translation type="unfinished"></translation>
+        <translation>Sav komora</translation>
     </message>
     <message>
         <location filename="CONFIGURATION/classConfigGaz.cpp" line="2038"/>
         <source>Service Access Bench</source>
-        <translation></translation>
+        <translation>Servisni pristup komori</translation>
     </message>
     <message>
         <location filename="CONFIGURATION/classConfigGaz.cpp" line="2040"/>
@@ -2365,7 +2365,7 @@ i ažuriranje će biti gotovo</translation>
     <message>
         <location filename="classconfig.cpp" line="6736"/>
         <source>E-Mail:</source>
-        <translation type="unfinished"></translation>
+        <translation>E-mail:</translation>
     </message>
     <message>
         <location filename="classconfig.cpp" line="6744"/>
@@ -2385,7 +2385,7 @@ i ažuriranje će biti gotovo</translation>
     <message>
         <location filename="classconfig.cpp" line="6944"/>
         <source>Documents (*.jpg *.png);;All files (*.*)</source>
-        <translation type="unfinished"></translation>
+        <translation>Dokumenti.(*.jpg *.png);;Sve datoteke (*.*)</translation>
     </message>
 </context>
 <context>
@@ -2426,7 +2426,7 @@ i ažuriranje će biti gotovo</translation>
     <message>
         <location filename="GAZ/classmesure.cpp" line="207"/>
         <source>OIL</source>
-        <translation type="unfinished">ULJE</translation>
+        <translation>ULJE</translation>
     </message>
     <message>
         <location filename="GAZ/classmesure.cpp" line="722"/>
@@ -2436,12 +2436,12 @@ i ažuriranje će biti gotovo</translation>
     <message>
         <location filename="GAZ/classmesure.cpp" line="832"/>
         <source>O2 STATE LOW:</source>
-        <translation type="unfinished"></translation>
+        <translation>O2 NISKO STANJE:</translation>
     </message>
     <message>
         <location filename="GAZ/classmesure.cpp" line="832"/>
         <source>CALL MAINTENANCE</source>
-        <translation type="unfinished"></translation>
+        <translation>ZOVITE SLUŽBU ODRŽAVANJA</translation>
     </message>
     <message>
         <location filename="GAZ/classmesure.cpp" line="867"/>
@@ -2577,12 +2577,12 @@ i ažuriranje će biti gotovo</translation>
     <message>
         <location filename="GAZ/classmesure.cpp" line="1875"/>
         <source>Addition Exhaust Test</source>
-        <translation type="unfinished"></translation>
+        <translation>Ispit dodatnog ispuha</translation>
     </message>
     <message>
         <location filename="GAZ/classmesure.cpp" line="1875"/>
         <source>Change Probe Position</source>
-        <translation type="unfinished"></translation>
+        <translation>Promijeni položaj sonde</translation>
     </message>
 </context>
 <context>
@@ -2914,7 +2914,7 @@ i ažuriranje će biti gotovo</translation>
         <location filename="GAZ/classAnalyseurProcCostaRica.cpp" line="889"/>
         <location filename="GAZ/classAnalyseurStandard.cpp" line="960"/>
         <source>Limit/Verdict</source>
-        <translation>Limit/Presuda</translation>
+        <translation>Limit/Rezultat</translation>
     </message>
     <message>
         <location filename="GAZ/classAnalyseurFinnish.cpp" line="1038"/>
@@ -2923,57 +2923,57 @@ i ažuriranje će biti gotovo</translation>
         <location filename="GAZ/classAnalyseurStandard.cpp" line="1000"/>
         <location filename="GAZ/classanalyseur.cpp" line="7823"/>
         <source>Print Report</source>
-        <translation>Ispiši izvješće</translation>
+        <translation>Izvješće</translation>
     </message>
     <message>
         <location filename="GAZ/classAnalyseurPortuguese.cpp" line="1126"/>
         <location filename="GAZ/classAnalyseurPortuguese.cpp" line="1474"/>
         <source>Print Report line 1</source>
-        <translation type="unfinished"></translation>
+        <translation>Izvješće linija 1</translation>
     </message>
     <message>
         <location filename="GAZ/classAnalyseurPortuguese.cpp" line="1176"/>
         <source>PRINT REPORT Line 2</source>
-        <translation type="unfinished"></translation>
+        <translation>Izvješće linija 2</translation>
     </message>
     <message>
         <location filename="GAZ/classAnalyseurPortuguese.cpp" line="1181"/>
         <location filename="GAZ/classAnalyseurPortuguese.cpp" line="1563"/>
         <source>REMARQ: MEASURE ON 2 EXHAUSTS</source>
-        <translation type="unfinished"></translation>
+        <translation>NAPOMENA: MJERITI NA 2 ISPUHA</translation>
     </message>
     <message>
         <location filename="GAZ/classAnalyseurPortuguese.cpp" line="1558"/>
         <source>Print Report line 2</source>
-        <translation type="unfinished"></translation>
+        <translation>Izvješće linija 2</translation>
     </message>
     <message>
         <location filename="GAZ/classAnalyseurCzech.cpp" line="101"/>
         <location filename="GAZ/classAnalyseurCzech.cpp" line="1035"/>
         <location filename="GAZ/classAnalyseurCzech.cpp" line="2009"/>
         <source>Oil Temp. Checking</source>
-        <translation type="unfinished"></translation>
+        <translation>Provjera temp. ulja</translation>
     </message>
     <message>
         <location filename="GAZ/classAnalyseurCzech.cpp" line="101"/>
         <location filename="GAZ/classAnalyseurCzech.cpp" line="1035"/>
         <location filename="GAZ/classAnalyseurCzech.cpp" line="2009"/>
         <source>Insert the Oil Temp Probe</source>
-        <translation type="unfinished"></translation>
+        <translation>Umetnite sondu za mjerenje temp. ulja</translation>
     </message>
     <message>
         <location filename="GAZ/classAnalyseurCzech.cpp" line="139"/>
         <location filename="GAZ/classAnalyseurCzech.cpp" line="1070"/>
         <location filename="GAZ/classAnalyseurCzech.cpp" line="2041"/>
         <source>Oil temperature is not above</source>
-        <translation type="unfinished"></translation>
+        <translation>Temp. ulja nije iznad</translation>
     </message>
     <message>
         <location filename="GAZ/classAnalyseurCzech.cpp" line="139"/>
         <location filename="GAZ/classAnalyseurCzech.cpp" line="1070"/>
         <location filename="GAZ/classAnalyseurCzech.cpp" line="2041"/>
         <source>minimum temperature</source>
-        <translation type="unfinished"></translation>
+        <translation>minimalne temperature</translation>
     </message>
     <message>
         <location filename="GAZ/classAnalyseurCzech.cpp" line="1115"/>
@@ -2981,13 +2981,13 @@ i ažuriranje će biti gotovo</translation>
         <location filename="GAZ/classAnalyseurCzech.cpp" line="2087"/>
         <location filename="GAZ/classAnalyseurCzech.cpp" line="2089"/>
         <source>1- Gasoline</source>
-        <translation type="unfinished"></translation>
+        <translation>1- Benzin</translation>
     </message>
     <message>
         <location filename="GAZ/classAnalyseurCzech.cpp" line="1115"/>
         <location filename="GAZ/classAnalyseurCzech.cpp" line="2087"/>
         <source>2- LPG</source>
-        <translation type="unfinished"></translation>
+        <translation>2- LPG</translation>
     </message>
     <message>
         <location filename="GAZ/classAnalyseurCzech.cpp" line="189"/>
@@ -2998,7 +2998,7 @@ i ažuriranje će biti gotovo</translation>
         <location filename="GAZ/classAnalyseurCzech.cpp" line="2091"/>
         <location filename="GAZ/classAnalyseurCzech.cpp" line="2605"/>
         <source>please select</source>
-        <translation type="unfinished"></translation>
+        <translation>Molimo odaberite</translation>
     </message>
     <message>
         <location filename="GAZ/classAnalyseurCzech.cpp" line="189"/>
@@ -3009,14 +3009,14 @@ i ažuriranje će biti gotovo</translation>
         <location filename="GAZ/classAnalyseurCzech.cpp" line="2091"/>
         <location filename="GAZ/classAnalyseurCzech.cpp" line="2605"/>
         <source>an option</source>
-        <translation type="unfinished"></translation>
+        <translation>jednu opciju</translation>
     </message>
     <message>
         <location filename="GAZ/classAnalyseurCzech.cpp" line="312"/>
         <location filename="GAZ/classAnalyseurCzech.cpp" line="1313"/>
         <location filename="GAZ/classAnalyseurCzech.cpp" line="2285"/>
         <source>Measure at High Idle Speed</source>
-        <translation type="unfinished"></translation>
+        <translation>Mjerite na povišenoj brzini</translation>
     </message>
     <message>
         <location filename="GAZ/classAnalyseurCzech.cpp" line="312"/>
@@ -3035,12 +3035,12 @@ i ažuriranje će biti gotovo</translation>
         <location filename="GAZ/classAnalyseurCzech.cpp" line="3964"/>
         <location filename="GAZ/classAnalyseurCzech.cpp" line="3985"/>
         <source>between</source>
-        <translation type="unfinished"></translation>
+        <translation>između</translation>
     </message>
     <message>
         <location filename="GAZ/classAnalyseurCzech.cpp" line="312"/>
         <source>and </source>
-        <translation type="unfinished"></translation>
+        <translation>i </translation>
     </message>
     <message>
         <location filename="GAZ/classAnalyseurCzech.cpp" line="312"/>
@@ -3057,7 +3057,7 @@ i ažuriranje će biti gotovo</translation>
         <location filename="GAZ/classAnalyseurCzech.cpp" line="3964"/>
         <location filename="GAZ/classAnalyseurCzech.cpp" line="3985"/>
         <source>rpm</source>
-        <translation type="unfinished">rpm</translation>
+        <translation>okretaja</translation>
     </message>
     <message>
         <location filename="GAZ/classAnalyseurCzech.cpp" line="499"/>
@@ -3072,7 +3072,7 @@ i ažuriranje će biti gotovo</translation>
         <location filename="GAZ/classAnalyseurCzech.cpp" line="3829"/>
         <location filename="GAZ/classAnalyseurCzech.cpp" line="3985"/>
         <source>and</source>
-        <translation type="unfinished"></translation>
+        <translation>i</translation>
     </message>
     <message>
         <location filename="GAZ/classAnalyseurCzech.cpp" line="499"/>
@@ -3082,7 +3082,7 @@ i ažuriranje će biti gotovo</translation>
         <location filename="GAZ/classAnalyseurCzech.cpp" line="2483"/>
         <location filename="GAZ/classAnalyseurCzech.cpp" line="2506"/>
         <source>Measure at Basic Idle RPM</source>
-        <translation type="unfinished"></translation>
+        <translation>Mjerite u praznom hodu</translation>
     </message>
     <message>
         <location filename="GAZ/classAnalyseurCzech.cpp" line="629"/>
@@ -3092,96 +3092,96 @@ i ažuriranje će biti gotovo</translation>
         <location filename="GAZ/classAnalyseurCzech.cpp" line="2597"/>
         <location filename="GAZ/classAnalyseurCzech.cpp" line="2603"/>
         <source>bi-fuel vehicles - Change probe Exhaust and select action</source>
-        <translation type="unfinished"></translation>
+        <translation>Vozila s 2 goriva - Promijeni ispušnu sondu i odaberi akciju</translation>
     </message>
     <message>
         <location filename="GAZ/classAnalyseurCzech.cpp" line="638"/>
         <location filename="GAZ/classAnalyseurCzech.cpp" line="1629"/>
         <location filename="GAZ/classAnalyseurCzech.cpp" line="2603"/>
         <source>1- Test another Exhaust Pipe</source>
-        <translation type="unfinished"></translation>
+        <translation>1- Ispit na drugom auspuhu</translation>
     </message>
     <message>
         <location filename="GAZ/classAnalyseurCzech.cpp" line="638"/>
         <location filename="GAZ/classAnalyseurCzech.cpp" line="1629"/>
         <location filename="GAZ/classAnalyseurCzech.cpp" line="2603"/>
         <source>2- Test Another Fuel</source>
-        <translation type="unfinished"></translation>
+        <translation>2- Ispit drugog goriva</translation>
     </message>
     <message>
         <location filename="GAZ/classAnalyseurCzech.cpp" line="638"/>
         <location filename="GAZ/classAnalyseurCzech.cpp" line="1629"/>
         <location filename="GAZ/classAnalyseurCzech.cpp" line="2603"/>
         <source>3- Stop test</source>
-        <translation type="unfinished"></translation>
+        <translation>3- Prekini ispit</translation>
     </message>
     <message>
         <location filename="GAZ/classAnalyseurCzech.cpp" line="902"/>
         <source>DTC INPUT</source>
-        <translation type="unfinished"></translation>
+        <translation>DTC ULAZ</translation>
     </message>
     <message>
         <location filename="GAZ/classAnalyseurCzech.cpp" line="902"/>
         <location filename="GAZ/classAnalyseurCzech.cpp" line="1881"/>
         <source>1-NO DTC</source>
-        <translation type="unfinished"></translation>
+        <translation>1-BEZ DTC</translation>
     </message>
     <message>
         <location filename="GAZ/classAnalyseurCzech.cpp" line="902"/>
         <location filename="GAZ/classAnalyseurCzech.cpp" line="1881"/>
         <source>2-DTC COMPLY With Classification</source>
-        <translation type="unfinished"></translation>
+        <translation>2-DTC PRIDRŽAVANJE s klasifikacijom</translation>
     </message>
     <message>
         <location filename="GAZ/classAnalyseurCzech.cpp" line="902"/>
         <location filename="GAZ/classAnalyseurCzech.cpp" line="1881"/>
         <source>3-DTC NOT COMPLY</source>
-        <translation type="unfinished"></translation>
+        <translation>3-DTC BEZ PRIDRŽAVANJA</translation>
     </message>
     <message>
         <location filename="GAZ/classAnalyseurCzech.cpp" line="1181"/>
         <location filename="GAZ/classAnalyseurCzech.cpp" line="2160"/>
         <source>RPM Checking Stability</source>
-        <translation type="unfinished"></translation>
+        <translation>Provjera stabilnosti okretaja</translation>
     </message>
     <message>
         <location filename="GAZ/classAnalyseurCzech.cpp" line="1181"/>
         <location filename="GAZ/classAnalyseurCzech.cpp" line="2160"/>
         <source>Attach the engine speed measurement device</source>
-        <translation type="unfinished"></translation>
+        <translation>Spojite mjerač okretaja</translation>
     </message>
     <message>
         <location filename="GAZ/classAnalyseurCzech.cpp" line="1181"/>
         <location filename="GAZ/classAnalyseurCzech.cpp" line="2160"/>
         <source>Please, Apply Load (Lights, Ventilation...)</source>
-        <translation type="unfinished"></translation>
+        <translation>Molimo, dodajte teret (svjetla, ventilaciju...)</translation>
     </message>
     <message>
         <location filename="GAZ/classAnalyseurCzech.cpp" line="2975"/>
         <location filename="GAZ/classAnalyseurCzech.cpp" line="3296"/>
         <source>Limit/D</source>
         <comment>POLISH VERSION</comment>
-        <translation type="unfinished"></translation>
+        <translation>Limit/D</translation>
     </message>
     <message>
         <location filename="GAZ/classAnalyseurCzech.cpp" line="2975"/>
         <location filename="GAZ/classAnalyseurCzech.cpp" line="3296"/>
         <source>Limit/D</source>
-        <translation type="unfinished"></translation>
+        <translation>Limit/D</translation>
     </message>
     <message>
         <location filename="GAZ/classAnalyseurCzech.cpp" line="3115"/>
         <location filename="GAZ/classAnalyseurCzech.cpp" line="3447"/>
         <source>Measure 1</source>
         <comment>CZECH VERSION</comment>
-        <translation type="unfinished">Mjerenje 1</translation>
+        <translation>Mjerenje 1</translation>
     </message>
     <message>
         <location filename="GAZ/classAnalyseurCzech.cpp" line="3115"/>
         <location filename="GAZ/classAnalyseurCzech.cpp" line="3447"/>
         <source>Measure 2</source>
         <comment>CZECH VERSION</comment>
-        <translation type="unfinished">Mjerenje 2</translation>
+        <translation>Mjerenje 2</translation>
     </message>
     <message>
         <location filename="GAZ/classAnalyseurCzech.cpp" line="3251"/>
@@ -3224,98 +3224,98 @@ i ažuriranje će biti gotovo</translation>
         <location filename="GAZ/classAnalyseurCzech.cpp" line="4280"/>
         <location filename="GAZ/classAnalyseurCzech.cpp" line="4281"/>
         <source>Použitý rezim lambda X</source>
-        <translation type="unfinished"></translation>
+        <translation>Koristi režim lambda X</translation>
     </message>
     <message>
         <location filename="GAZ/classAnalyseurCzech.cpp" line="3599"/>
         <source>Ř1 - S1</source>
-        <translation type="unfinished"></translation>
+        <translation>R1 - S1</translation>
     </message>
     <message>
         <location filename="GAZ/classAnalyseurCzech.cpp" line="3600"/>
         <source>Ř1 - S2</source>
-        <translation type="unfinished"></translation>
+        <translation>R1 - S2</translation>
     </message>
     <message>
         <location filename="GAZ/classAnalyseurCzech.cpp" line="3601"/>
         <source>Ř1 - S3</source>
-        <translation type="unfinished"></translation>
+        <translation>R1 - S3</translation>
     </message>
     <message>
         <location filename="GAZ/classAnalyseurCzech.cpp" line="3602"/>
         <source>Ř1 - S4</source>
-        <translation type="unfinished"></translation>
+        <translation>R1 - S4</translation>
     </message>
     <message>
         <location filename="GAZ/classAnalyseurCzech.cpp" line="3603"/>
         <source>Ř2 - S1</source>
-        <translation type="unfinished"></translation>
+        <translation>R2 - S1</translation>
     </message>
     <message>
         <location filename="GAZ/classAnalyseurCzech.cpp" line="3604"/>
         <source>Ř2 - S2</source>
-        <translation type="unfinished"></translation>
+        <translation>R2 - S2</translation>
     </message>
     <message>
         <location filename="GAZ/classAnalyseurCzech.cpp" line="3605"/>
         <source>Ř2 - S3</source>
-        <translation type="unfinished"></translation>
+        <translation>R2 - S3</translation>
     </message>
     <message>
         <location filename="GAZ/classAnalyseurCzech.cpp" line="3606"/>
         <source>Ř2 - S4</source>
-        <translation type="unfinished"></translation>
+        <translation>R2 - S4</translation>
     </message>
     <message>
         <location filename="GAZ/classAnalyseurCzech.cpp" line="3607"/>
         <source>Ř3 - S1</source>
-        <translation type="unfinished"></translation>
+        <translation>R3 - S1</translation>
     </message>
     <message>
         <location filename="GAZ/classAnalyseurCzech.cpp" line="3608"/>
         <source>Ř3 - S2</source>
-        <translation type="unfinished"></translation>
+        <translation>R3 - S2</translation>
     </message>
     <message>
         <location filename="GAZ/classAnalyseurCzech.cpp" line="3609"/>
         <source>Ř4 - S1</source>
-        <translation type="unfinished"></translation>
+        <translation>R4 - S1</translation>
     </message>
     <message>
         <location filename="GAZ/classAnalyseurCzech.cpp" line="3610"/>
         <source>Ř4 - S2</source>
-        <translation type="unfinished"></translation>
+        <translation>R4 - S2</translation>
     </message>
     <message>
         <location filename="GAZ/classAnalyseurCzech.cpp" line="3611"/>
         <source>No O2 sensors</source>
-        <translation type="unfinished">Nema O2 senzora</translation>
+        <translation>Nema O2 senzora</translation>
     </message>
     <message>
         <location filename="GAZ/classAnalyseurCzech.cpp" line="3612"/>
         <source>O2 sensor control:</source>
-        <translation type="unfinished">Kontrola O2 senzora:</translation>
+        <translation>Kontrola O2 senzora:</translation>
     </message>
     <message>
         <location filename="GAZ/classAnalyseurCzech.cpp" line="3613"/>
         <source>O2 sensor help:</source>
-        <translation type="unfinished">Pomoć O2 senzora:</translation>
+        <translation>Pomoć O2 senzora:</translation>
     </message>
     <message>
         <location filename="GAZ/classAnalyseurCzech.cpp" line="3614"/>
         <location filename="GAZ/classAnalyseurCzech.cpp" line="3615"/>
         <source>O2 sensor</source>
-        <translation type="unfinished">O2 senzor</translation>
+        <translation>O2 senzor</translation>
     </message>
     <message>
         <location filename="GAZ/classAnalyseurCzech.cpp" line="3636"/>
         <source>Amplitude [mA]</source>
-        <translation type="unfinished"></translation>
+        <translation>Amplituda [mA]</translation>
     </message>
     <message>
         <location filename="GAZ/classAnalyseurCzech.cpp" line="3638"/>
         <source>Amplitude [Lambda]</source>
-        <translation type="unfinished"></translation>
+        <translation>Amplituda [Lambda]</translation>
     </message>
     <message>
         <location filename="GAZ/classAnalyseurCzech.cpp" line="3697"/>
@@ -3395,7 +3395,7 @@ i ažuriranje će biti gotovo</translation>
         <location filename="GAZ/classAnalyseurCzech.cpp" line="1100"/>
         <location filename="GAZ/classAnalyseurCzech.cpp" line="2072"/>
         <source>Input OIL Temp.</source>
-        <translation type="unfinished"></translation>
+        <translation>Unos temp. ulja</translation>
     </message>
     <message>
         <location filename="GAZ/classAnalyseurCzech.cpp" line="184"/>
@@ -3405,7 +3405,7 @@ i ažuriranje će biti gotovo</translation>
         <location filename="GAZ/classAnalyseurCzech.cpp" line="2087"/>
         <location filename="GAZ/classAnalyseurCzech.cpp" line="2089"/>
         <source>Select Actual Fuel</source>
-        <translation type="unfinished"></translation>
+        <translation>Odaberite gorivo</translation>
     </message>
     <message>
         <location filename="GAZ/classAnalyseurCzech.cpp" line="184"/>
@@ -3417,28 +3417,28 @@ i ažuriranje će biti gotovo</translation>
         <location filename="GAZ/classAnalyseurCzech.cpp" line="2116"/>
         <location filename="GAZ/classAnalyseurCzech.cpp" line="2137"/>
         <source>Gasoline</source>
-        <translation type="unfinished"></translation>
+        <translation>Benzin</translation>
     </message>
     <message>
         <location filename="GAZ/classAnalyseurCzech.cpp" line="629"/>
         <location filename="GAZ/classAnalyseurCzech.cpp" line="1622"/>
         <location filename="GAZ/classAnalyseurCzech.cpp" line="2597"/>
         <source>1- Test Another Fuel</source>
-        <translation type="unfinished"></translation>
+        <translation>1- Ispit drugog goriva</translation>
     </message>
     <message>
         <location filename="GAZ/classAnalyseurCzech.cpp" line="629"/>
         <location filename="GAZ/classAnalyseurCzech.cpp" line="1622"/>
         <location filename="GAZ/classAnalyseurCzech.cpp" line="2597"/>
         <source>2- Stop test</source>
-        <translation type="unfinished"></translation>
+        <translation>2- Prekini ispit</translation>
     </message>
     <message>
         <location filename="GAZ/classAnalyseurCzech.cpp" line="859"/>
         <location filename="GAZ/classAnalyseurCzech.cpp" line="1851"/>
         <location filename="GAZ/classAnalyseurCzech.cpp" line="2846"/>
         <source>PROTOCOLO</source>
-        <translation type="unfinished"></translation>
+        <translation>PROTOKOL</translation>
     </message>
     <message>
         <location filename="GAZ/classAnalyseurCzech.cpp" line="928"/>
@@ -3446,24 +3446,24 @@ i ažuriranje će biti gotovo</translation>
         <location filename="GAZ/classAnalyseurCzech.cpp" line="1913"/>
         <location filename="GAZ/classAnalyseurCzech.cpp" line="1926"/>
         <source>Input DTC</source>
-        <translation type="unfinished"></translation>
+        <translation>Ulaz DTC</translation>
     </message>
     <message>
         <location filename="GAZ/classAnalyseurCzech.cpp" line="1117"/>
         <location filename="GAZ/classAnalyseurCzech.cpp" line="2089"/>
         <source>2- CNG</source>
-        <translation type="unfinished"></translation>
+        <translation>2- CNG</translation>
     </message>
     <message>
         <location filename="GAZ/classAnalyseurCzech.cpp" line="1235"/>
         <location filename="GAZ/classAnalyseurCzech.cpp" line="2193"/>
         <source>OK</source>
-        <translation type="unfinished">OK</translation>
+        <translation>OK</translation>
     </message>
     <message>
         <location filename="GAZ/classAnalyseurCzech.cpp" line="1881"/>
         <source>ADDITIONNAL DTC INPUT</source>
-        <translation type="unfinished"></translation>
+        <translation>DODATAN DTC ULAZ</translation>
     </message>
     <message>
         <location filename="GAZ/classAnalyseurCzech.cpp" line="2975"/>
@@ -3496,92 +3496,92 @@ i ažuriranje će biti gotovo</translation>
     <message>
         <location filename="GAZ/classAnalyseurCzech.cpp" line="3574"/>
         <source>WVTA TRACTOR</source>
-        <translation type="unfinished"></translation>
+        <translation>WVTA TRAKTOR</translation>
     </message>
     <message>
         <location filename="GAZ/classAnalyseurCzech.cpp" line="3634"/>
         <location filename="GAZ/classAnalyseurCzech.cpp" line="3636"/>
         <location filename="GAZ/classAnalyseurCzech.cpp" line="3638"/>
         <source>RPM [min]</source>
-        <translation type="unfinished"></translation>
+        <translation>Okretaji [min]</translation>
     </message>
     <message>
         <location filename="GAZ/classAnalyseurCzech.cpp" line="3634"/>
         <location filename="GAZ/classAnalyseurCzech.cpp" line="3636"/>
         <location filename="GAZ/classAnalyseurCzech.cpp" line="3638"/>
         <source>Oxygen sensor</source>
-        <translation type="unfinished"></translation>
+        <translation>O2 senzor</translation>
     </message>
     <message>
         <location filename="GAZ/classAnalyseurCzech.cpp" line="3634"/>
         <source>Amplitude [V]</source>
-        <translation type="unfinished"></translation>
+        <translation>Amplituda [V]</translation>
     </message>
     <message>
         <location filename="GAZ/classAnalyseurCzech.cpp" line="3634"/>
         <location filename="GAZ/classAnalyseurCzech.cpp" line="3636"/>
         <location filename="GAZ/classAnalyseurCzech.cpp" line="3638"/>
         <source>Frequency [Hz]</source>
-        <translation type="unfinished"></translation>
+        <translation>Frekvencija [Hz]</translation>
     </message>
     <message>
         <location filename="GAZ/classAnalyseurCzech.cpp" line="3634"/>
         <location filename="GAZ/classAnalyseurCzech.cpp" line="3636"/>
         <location filename="GAZ/classAnalyseurCzech.cpp" line="3638"/>
         <source>Filing [%]</source>
-        <translation type="unfinished"></translation>
+        <translation>Odstupanje [%]</translation>
     </message>
     <message>
         <location filename="GAZ/classAnalyseurCzech.cpp" line="3585"/>
         <location filename="GAZ/classAnalyseurCzech.cpp" line="3652"/>
         <source>Results of additional tests</source>
-        <translation type="unfinished"></translation>
+        <translation>Rezultati dodatnih ispita</translation>
     </message>
     <message>
         <location filename="GAZ/classAnalyseurCzech.cpp" line="3687"/>
         <source>Inspection of LPG/CNG container</source>
-        <translation type="unfinished"></translation>
+        <translation>Inspekcija LPG/CNG spremnika</translation>
     </message>
     <message>
         <location filename="GAZ/classAnalyseurCzech.cpp" line="3818"/>
         <location filename="GAZ/classAnalyseurCzech.cpp" line="3949"/>
         <source>Raise the engine speed to</source>
-        <translation type="unfinished"></translation>
+        <translation>Dignite okretaje do </translation>
     </message>
     <message>
         <location filename="GAZ/classAnalyseurCzech.cpp" line="3829"/>
         <location filename="GAZ/classAnalyseurCzech.cpp" line="3964"/>
         <source>Decrease the engine speed to</source>
-        <translation type="unfinished"></translation>
+        <translation>Spustite okretaje do</translation>
     </message>
     <message>
         <location filename="GAZ/classAnalyseurCzech.cpp" line="3845"/>
         <source>Maintain the fast idle speed</source>
-        <translation type="unfinished"></translation>
+        <translation>Držite povišene okretaje</translation>
     </message>
     <message>
         <location filename="GAZ/classAnalyseurCzech.cpp" line="3985"/>
         <source>Maintain RPM</source>
-        <translation type="unfinished"></translation>
+        <translation>Držite okretaje</translation>
     </message>
     <message>
         <location filename="GAZ/classAnalyseurCzech.cpp" line="4248"/>
         <location filename="GAZ/classAnalyseurCzech.cpp" line="4601"/>
         <source>Výsledek vizuální kontroly:</source>
-        <translation type="unfinished"></translation>
+        <translation>Rezultat vizualnog pregleda:</translation>
     </message>
     <message>
         <location filename="GAZ/classAnalyseurCzech.cpp" line="4253"/>
         <location filename="GAZ/classAnalyseurCzech.cpp" line="4280"/>
         <location filename="GAZ/classAnalyseurCzech.cpp" line="4287"/>
         <source>Výsledek kontroly readiness kódů:</source>
-        <translation type="unfinished"></translation>
+        <translation>Rezultat provjere koda spremnosti:</translation>
     </message>
     <message>
         <location filename="GAZ/classAnalyseurCzech.cpp" line="4258"/>
         <location filename="GAZ/classAnalyseurCzech.cpp" line="4295"/>
         <source>Výsledek kontroly závad řídící jednotky motoru:</source>
-        <translation type="unfinished"></translation>
+        <translation>Rezultat provjere upravljača:</translation>
     </message>
     <message>
         <location filename="GAZ/classAnalyseurCzech.cpp" line="4317"/>
@@ -3589,7 +3589,7 @@ i ažuriranje će biti gotovo</translation>
         <location filename="GAZ/classAnalyseurCzech.cpp" line="4329"/>
         <location filename="GAZ/classAnalyseurCzech.cpp" line="4337"/>
         <source>Vyhodnocení stavu řídící jednotky:</source>
-        <translation type="unfinished"></translation>
+        <translation>Ocjena stanja upravljača:</translation>
     </message>
     <message>
         <location filename="GAZ/classAnalyseurCzech.cpp" line="4317"/>
@@ -3597,17 +3597,17 @@ i ažuriranje će biti gotovo</translation>
         <location filename="GAZ/classAnalyseurCzech.cpp" line="4324"/>
         <location filename="GAZ/classAnalyseurCzech.cpp" line="4330"/>
         <source>W/O</source>
-        <translation type="unfinished"></translation>
+        <translation>W/O</translation>
     </message>
     <message>
         <location filename="GAZ/classAnalyseurCzech.cpp" line="4323"/>
         <source>Manually add DTC</source>
-        <translation type="unfinished"></translation>
+        <translation>Ručno dodavanje DTC</translation>
     </message>
     <message>
         <location filename="GAZ/classAnalyseurCzech.cpp" line="4329"/>
         <source>Manually add DTC with relevant</source>
-        <translation type="unfinished"></translation>
+        <translation>Ručno dodavanje DTC s bitnim</translation>
     </message>
     <message>
         <location filename="GAZ/classAnalyseurCzech.cpp" line="4348"/>
@@ -3615,13 +3615,13 @@ i ažuriranje će biti gotovo</translation>
         <location filename="GAZ/classAnalyseurCzech.cpp" line="4607"/>
         <location filename="GAZ/classAnalyseurCzech.cpp" line="4612"/>
         <source>Výsledek kontroly těsnosti plynového zařízení **):</source>
-        <translation type="unfinished"></translation>
+        <translation>Rezultat provjere curenja plina:</translation>
     </message>
     <message>
         <location filename="GAZ/classAnalyseurCzech.cpp" line="4357"/>
         <location filename="GAZ/classAnalyseurCzech.cpp" line="4616"/>
         <source>Měřené parametry</source>
-        <translation type="unfinished"></translation>
+        <translation>Mjereni parametri</translation>
     </message>
     <message>
         <location filename="GAZ/classAnalyseurCzech.cpp" line="4357"/>
@@ -3677,7 +3677,7 @@ i ažuriranje će biti gotovo</translation>
         <location filename="GAZ/classAnalyseurCzech.cpp" line="4647"/>
         <location filename="GAZ/classAnalyseurCzech.cpp" line="4656"/>
         <source>Obsah CO[%]</source>
-        <translation type="unfinished"></translation>
+        <translation>Količina CO[%]</translation>
     </message>
     <message>
         <location filename="GAZ/classAnalyseurCzech.cpp" line="4372"/>
@@ -3685,13 +3685,13 @@ i ažuriranje će biti gotovo</translation>
         <location filename="GAZ/classAnalyseurCzech.cpp" line="4632"/>
         <location filename="GAZ/classAnalyseurCzech.cpp" line="4653"/>
         <source>Pří zvýšených otáčkách</source>
-        <translation type="unfinished"></translation>
+        <translation>Na povećanu brzinu</translation>
     </message>
     <message>
         <location filename="GAZ/classAnalyseurCzech.cpp" line="4378"/>
         <location filename="GAZ/classAnalyseurCzech.cpp" line="4396"/>
         <source>λ - lambda[1]</source>
-        <translation type="unfinished"></translation>
+        <translation>λ - lambda[1]</translation>
     </message>
     <message>
         <location filename="GAZ/classAnalyseurCzech.cpp" line="4629"/>
@@ -3699,7 +3699,7 @@ i ažuriranje će biti gotovo</translation>
         <location filename="GAZ/classAnalyseurCzech.cpp" line="4650"/>
         <location filename="GAZ/classAnalyseurCzech.cpp" line="4659"/>
         <source>Obsah HC[ppm]</source>
-        <translation type="unfinished"></translation>
+        <translation>Količina HC[ppm]</translation>
     </message>
     <message>
         <location filename="GAZ/classAnalyseurCzech.cpp" line="3115"/>
@@ -3713,7 +3713,7 @@ i ažuriranje će biti gotovo</translation>
         <location filename="GAZ/classAnalyseurStandard.cpp" line="752"/>
         <location filename="GAZ/classAnalyseurStandard2002.cpp" line="439"/>
         <source>Limit/Decision</source>
-        <translation>Limit/Odluka</translation>
+        <translation>Limit/Rezultat</translation>
     </message>
     <message>
         <location filename="GAZ/classAnalyseurPortuguese.cpp" line="1385"/>
@@ -3748,7 +3748,7 @@ i ažuriranje će biti gotovo</translation>
         <location filename="GAZ/classAnalyseurStandard.cpp" line="790"/>
         <location filename="GAZ/classAnalyseurStandard2002.cpp" line="486"/>
         <source>Test Result</source>
-        <translation>Rezultat ispita</translation>
+        <translation>Izvještaj</translation>
     </message>
     <message>
         <location filename="GAZ/classAnalyseurFinnish.cpp" line="797"/>
@@ -3759,7 +3759,7 @@ i ažuriranje će biti gotovo</translation>
         <location filename="GAZ/classAnalyseurStandard.cpp" line="794"/>
         <location filename="GAZ/classAnalyseurStandard2002.cpp" line="490"/>
         <source>Measure 1: Measure at accelerated idle speed</source>
-        <translation>Mjerenje 1: Mjerenje na ubrzanoj stalnoj brzni</translation>
+        <translation>Mjerenje 1: Mjerenje na povišenim okretajima</translation>
     </message>
     <message>
         <location filename="GAZ/classAnalyseurFinnish.cpp" line="881"/>
@@ -3769,14 +3769,14 @@ i ažuriranje će biti gotovo</translation>
         <location filename="GAZ/classAnalyseurStandard.cpp" line="795"/>
         <location filename="GAZ/classAnalyseurStandard2002.cpp" line="491"/>
         <source>Measure 2: Measure at idle speed</source>
-        <translation>Mjerenje 2: Mjerenje na stalnoj brzini</translation>
+        <translation>Mjerenje 2: Mjerenje u praznom hodu</translation>
     </message>
     <message>
         <location filename="GAZ/classAnalyseurFinnish.cpp" line="245"/>
         <location filename="GAZ/classVP.cpp" line="262"/>
         <source>INCREASE RPM TO</source>
         <comment>FINNISH VERSION</comment>
-        <translation type="unfinished"></translation>
+        <translation>POVEĆAJTE OKRETAJE DO</translation>
     </message>
     <message>
         <location filename="GAZ/classanalyseur.cpp" line="125"/>
@@ -3809,47 +3809,47 @@ i ažuriranje će biti gotovo</translation>
     <message>
         <location filename="GAZ/classanalyseur.cpp" line="126"/>
         <source>OBD SYSTEM CONFORM</source>
-        <translation type="unfinished">OBD SISTEM POPUSTLJIV</translation>
+        <translation>OBD SISTEM ISPRAVAN</translation>
     </message>
     <message>
         <location filename="GAZ/classanalyseur.cpp" line="126"/>
         <source>OBD SYSTEM NO CONFORM</source>
-        <translation type="unfinished">OBD SISTEM NIJE POPUSTLJIV</translation>
+        <translation>OBD SISTEM NIJE ISPRAVAN</translation>
     </message>
     <message>
         <location filename="GAZ/classanalyseur.cpp" line="126"/>
         <source>PROTOCOL NOT RECOGNIZED</source>
-        <translation type="unfinished">PROTOKOL NIJE PREPOZNAT</translation>
+        <translation>PROTOKOL NIJE PREPOZNAT</translation>
     </message>
     <message>
         <location filename="GAZ/classanalyseur.cpp" line="126"/>
         <source>TEST NOT DONE</source>
-        <translation type="unfinished">ISPIT NIJE GOTOV</translation>
+        <translation>ISPIT NIJE GOTOV</translation>
     </message>
     <message>
         <location filename="GAZ/classanalyseur.cpp" line="126"/>
         <source>TEST CONFORM</source>
-        <translation type="unfinished"></translation>
+        <translation>ISPIT PROŠAO</translation>
     </message>
     <message>
         <location filename="GAZ/classanalyseur.cpp" line="126"/>
         <source>TEST NO CONFORM</source>
-        <translation type="unfinished"></translation>
+        <translation>ISPIT NIJE PROŠAO</translation>
     </message>
     <message>
         <location filename="GAZ/classanalyseur.cpp" line="232"/>
         <source>LIGHT OFF</source>
-        <translation type="unfinished">SVIJETLA ISKLJUČENA</translation>
+        <translation>SVJETLO ISKLJUČENO</translation>
     </message>
     <message>
         <location filename="GAZ/classanalyseur.cpp" line="232"/>
         <source>LIGHT ON</source>
-        <translation type="unfinished">SVIJETLA UKLJUČENA</translation>
+        <translation>SVJETLO UKLJUČENO</translation>
     </message>
     <message>
         <location filename="GAZ/classanalyseur.cpp" line="232"/>
         <source>LIGHT INDICATING</source>
-        <translation type="unfinished">SVIJETLO INDICIRA</translation>
+        <translation>SVJETLO INDICIRA</translation>
     </message>
     <message>
         <location filename="GAZ/classanalyseur.cpp" line="544"/>
@@ -3920,7 +3920,7 @@ i ažuriranje će biti gotovo</translation>
         <location filename="GAZ/classanalyseur.cpp" line="4984"/>
         <location filename="GAZ/classanalyseur.cpp" line="4986"/>
         <source>Pressure base:</source>
-        <translation type="unfinished"></translation>
+        <translation>Osnovni tlak:</translation>
     </message>
     <message>
         <location filename="GAZ/classanalyseur.cpp" line="4975"/>
@@ -3928,7 +3928,7 @@ i ažuriranje će biti gotovo</translation>
         <location filename="GAZ/classanalyseur.cpp" line="4984"/>
         <location filename="GAZ/classanalyseur.cpp" line="4986"/>
         <source>PRESSURE LIMIT:</source>
-        <translation type="unfinished"></translation>
+        <translation>LIMIT TLAKA:</translation>
     </message>
     <message>
         <location filename="GAZ/classanalyseur.cpp" line="5008"/>
@@ -4041,32 +4041,32 @@ i ažuriranje će biti gotovo</translation>
         <location filename="GAZ/classAnalyseurFinnish.cpp" line="820"/>
         <source>Measure 1</source>
         <comment>FINNISH VERSION</comment>
-        <translation type="unfinished">Mjerenje 1</translation>
+        <translation>Mjerenje 1</translation>
     </message>
     <message>
         <location filename="GAZ/classAnalyseurFinnish.cpp" line="795"/>
         <location filename="GAZ/classAnalyseurFinnish.cpp" line="877"/>
         <source>Test Result</source>
         <comment>FINNISH VERSION</comment>
-        <translation type="unfinished">Rezultat ispita</translation>
+        <translation>Izvještaj</translation>
     </message>
     <message>
         <location filename="GAZ/classAnalyseurFinnish.cpp" line="820"/>
         <source>Limit/Decision</source>
         <comment>FINNISH VERSION</comment>
-        <translation type="unfinished">Limit/Odluka</translation>
+        <translation>Limit/Rezultat</translation>
     </message>
     <message>
         <location filename="GAZ/classAnalyseurFinnish.cpp" line="820"/>
         <source>Measure 2</source>
         <comment>FINNISH VERSION</comment>
-        <translation type="unfinished">Mjerenje 2</translation>
+        <translation>Mjerenje 2</translation>
     </message>
     <message>
         <location filename="GAZ/classAnalyseurPolish.cpp" line="717"/>
         <source>Measure 1</source>
         <comment>POLISH VERSION</comment>
-        <translation type="unfinished">Mjerenje 1</translation>
+        <translation>Mjerenje 1</translation>
     </message>
     <message>
         <location filename="GAZ/classAnalyseurCzech.cpp" line="3115"/>
@@ -4074,13 +4074,13 @@ i ažuriranje će biti gotovo</translation>
         <location filename="GAZ/classAnalyseurPolish.cpp" line="717"/>
         <source>Limit/Decision</source>
         <comment>POLISH VERSION</comment>
-        <translation type="unfinished">Limit/Odluka</translation>
+        <translation>Limit/Rezultat</translation>
     </message>
     <message>
         <location filename="GAZ/classAnalyseurPolish.cpp" line="717"/>
         <source>Measure 2</source>
         <comment>POLISH VERSION</comment>
-        <translation type="unfinished">Mjerenje 2</translation>
+        <translation>Mjerenje 2</translation>
     </message>
     <message>
         <location filename="GAZ/classAnalyseurCzech.cpp" line="3207"/>
@@ -4091,7 +4091,7 @@ i ažuriranje će biti gotovo</translation>
         <location filename="GAZ/classAnalyseurPolish.cpp" line="787"/>
         <source>Test Result</source>
         <comment>POLISH VERSION</comment>
-        <translation type="unfinished">Rezultat ispita</translation>
+        <translation>Izvještaj</translation>
     </message>
     <message>
         <location filename="GAZ/classanalyseur.cpp" line="7774"/>
@@ -4261,49 +4261,49 @@ i ažuriranje će biti gotovo</translation>
     <message>
         <location filename="EOBD/classEobdCTCzech.cpp" line="383"/>
         <source>Vehicule information</source>
-        <translation type="unfinished"></translation>
+        <translation>Podaci o vozilu</translation>
     </message>
     <message>
         <location filename="EOBD/classEobdCTCzech.cpp" line="383"/>
         <source>CALID</source>
-        <translation type="unfinished"></translation>
+        <translation>TOPAO</translation>
     </message>
     <message>
         <location filename="EOBD/classEobdCTCzech.cpp" line="383"/>
         <source>VIN</source>
-        <translation type="unfinished"></translation>
+        <translation>Serijski broj</translation>
     </message>
     <message>
         <location filename="EOBD/classEobdCTCzech.cpp" line="434"/>
         <location filename="EOBD/classeobd.cpp" line="1508"/>
         <source>Classification of vehicle information:</source>
         <oldsource>Classification of vehicle informtion:</oldsource>
-        <translation type="unfinished"></translation>
+        <translation>Klasifikacija podataka o vozilu:</translation>
     </message>
     <message>
         <location filename="EOBD/classEobdCTCzech.cpp" line="434"/>
         <location filename="EOBD/classEobdCTCzech.cpp" line="448"/>
         <source>Complied</source>
-        <translation type="unfinished"></translation>
+        <translation>Ispravna</translation>
     </message>
     <message>
         <location filename="EOBD/classEobdCTCzech.cpp" line="434"/>
         <location filename="EOBD/classEobdCTCzech.cpp" line="457"/>
         <source>Not Complied</source>
-        <translation type="unfinished"></translation>
+        <translation>Nije ispravna</translation>
     </message>
     <message>
         <location filename="EOBD/classEobdCTFinnish.cpp" line="376"/>
         <source>TEST COMPLETED</source>
         <comment>FINNISH PROCEDURE</comment>
-        <translation></translation>
+        <translation>ISPIT GOTOV</translation>
     </message>
     <message>
         <location filename="EOBD/classEobdCTFinnish.cpp" line="383"/>
         <location filename="EOBD/classEobdCTPolish.cpp" line="647"/>
         <source>TEST NOT PERFORMED</source>
         <comment>FINNISH PROCEDURE</comment>
-        <translation type="unfinished"></translation>
+        <translation>ISPIT NIJE PROVEDEN</translation>
     </message>
     <message>
         <location filename="EOBD/classEobdCTCzech.cpp" line="654"/>
@@ -4338,14 +4338,14 @@ i ažuriranje će biti gotovo</translation>
         <location filename="EOBD/classEobdCTFinnish.cpp" line="437"/>
         <location filename="EOBD/classEobdCTFinnish.cpp" line="444"/>
         <source> Volvo, Renault, Fiat or Alfa-Romeo?</source>
-        <translation> Volvo, Renault, Fiat or Alfa-Romeo?</translation>
+        <translation> Volvo, Renault, Fiat ili Alfa-Romeo?</translation>
     </message>
     <message>
         <location filename="EOBD/classEobdCTFinnish.cpp" line="463"/>
         <location filename="EOBD/classEobdCTFinnish.cpp" line="597"/>
         <source>AVAILABLE</source>
         <comment>FINNISH VERSION</comment>
-        <translation type="unfinished"></translation>
+        <translation>DOSTUPNO</translation>
     </message>
     <message>
         <location filename="EOBD/classEobdCTFinnish.cpp" line="464"/>
@@ -4364,7 +4364,7 @@ i ažuriranje će biti gotovo</translation>
         <location filename="EOBD/classEobdCTFinnish.cpp" line="611"/>
         <source>NOT AVAILABLE</source>
         <comment>FINNISH VERSION</comment>
-        <translation type="unfinished"></translation>
+        <translation>NIJE DOSTUPNO</translation>
     </message>
     <message>
         <location filename="EOBD/classEobdCTFinnish.cpp" line="542"/>
@@ -4375,19 +4375,19 @@ i ažuriranje će biti gotovo</translation>
         <location filename="EOBD/classEobdCTCzech.cpp" line="557"/>
         <source>TEST COMPLETED</source>
         <comment>Czech PROCEDURE</comment>
-        <translation type="unfinished"></translation>
+        <translation>ISPIT GOTOV</translation>
     </message>
     <message>
         <location filename="EOBD/classEobdCTCzech.cpp" line="566"/>
         <source>TEST NOT PERFORMED</source>
         <comment>Czech PROCEDURE</comment>
-        <translation type="unfinished"></translation>
+        <translation>ISPIT NIJE PROVEDEN</translation>
     </message>
     <message>
         <location filename="EOBD/classEobdCTCzech.cpp" line="751"/>
         <location filename="EOBD/classEobdCTCzech.cpp" line="757"/>
         <source>Classification of dtc</source>
-        <translation type="unfinished"></translation>
+        <translation>Klasifikacija DTC-a:</translation>
     </message>
     <message>
         <location filename="EOBD/classEobdCTFinnish.cpp" line="542"/>
@@ -4440,12 +4440,12 @@ i ažuriranje će biti gotovo</translation>
     <message>
         <location filename="EOBD/classEobdCTCzech.cpp" line="435"/>
         <source>please select</source>
-        <translation type="unfinished"></translation>
+        <translation>Molimo odaberite</translation>
     </message>
     <message>
         <location filename="EOBD/classEobdCTCzech.cpp" line="435"/>
         <source>an option</source>
-        <translation type="unfinished"></translation>
+        <translation>jednu opciju</translation>
     </message>
     <message>
         <location filename="EOBD/classEobdCTCzech.cpp" line="585"/>
@@ -4453,7 +4453,7 @@ i ažuriranje će biti gotovo</translation>
         <location filename="EOBD/classEobdCTCzech.cpp" line="1885"/>
         <location filename="EOBD/classEobdCTCzech.cpp" line="1906"/>
         <source>Fuel</source>
-        <translation type="unfinished"></translation>
+        <translation>Gorivo</translation>
     </message>
     <message>
         <location filename="EOBD/classEobdCTCzech.cpp" line="585"/>
@@ -4483,7 +4483,7 @@ i ažuriranje će biti gotovo</translation>
         <location filename="EOBD/classEobdCTCzech.cpp" line="1885"/>
         <location filename="EOBD/classEobdCTCzech.cpp" line="1906"/>
         <source>A/C</source>
-        <translation type="unfinished"></translation>
+        <translation>A/C</translation>
     </message>
     <message>
         <location filename="EOBD/classEobdCTCzech.cpp" line="585"/>
@@ -4521,7 +4521,7 @@ i ažuriranje će biti gotovo</translation>
         <location filename="EOBD/classEobdCTCzech.cpp" line="586"/>
         <location filename="EOBD/classEobdCTCzech.cpp" line="1886"/>
         <source>NOX</source>
-        <translation type="unfinished"></translation>
+        <translation>NOX</translation>
     </message>
     <message>
         <location filename="EOBD/classEobdCTCzech.cpp" line="586"/>
@@ -4539,7 +4539,7 @@ i ažuriranje će biti gotovo</translation>
         <location filename="EOBD/classEobdCTCzech.cpp" line="586"/>
         <location filename="EOBD/classEobdCTCzech.cpp" line="1886"/>
         <source>COLD</source>
-        <translation type="unfinished"></translation>
+        <translation>HLADAN</translation>
     </message>
     <message>
         <location filename="EOBD/classEobdCTCzech.cpp" line="596"/>
@@ -4547,7 +4547,7 @@ i ažuriranje će biti gotovo</translation>
         <location filename="EOBD/classEobdCTCzech.cpp" line="1891"/>
         <location filename="EOBD/classEobdCTCzech.cpp" line="1912"/>
         <source>Supported</source>
-        <translation type="unfinished"></translation>
+        <translation>Podržan</translation>
     </message>
     <message>
         <location filename="EOBD/classEobdCTCzech.cpp" line="608"/>
@@ -4555,7 +4555,7 @@ i ažuriranje će biti gotovo</translation>
         <location filename="EOBD/classEobdCTCzech.cpp" line="1898"/>
         <location filename="EOBD/classEobdCTCzech.cpp" line="1920"/>
         <source>Tested</source>
-        <translation type="unfinished"></translation>
+        <translation>Ispitan</translation>
     </message>
     <message>
         <location filename="EOBD/classEobdCTCzech.cpp" line="616"/>
@@ -4591,45 +4591,45 @@ i ažuriranje će biti gotovo</translation>
         <location filename="EOBD/classEobdCTCzech.cpp" line="751"/>
         <location filename="EOBD/classEobdCTCzech.cpp" line="752"/>
         <source>DTC ACCEPTABLE</source>
-        <translation type="unfinished"></translation>
+        <translation>DTC PRIHVATLJIV</translation>
     </message>
     <message>
         <location filename="EOBD/classEobdCTCzech.cpp" line="757"/>
         <location filename="EOBD/classEobdCTCzech.cpp" line="758"/>
         <source>DTC NOT ACCEPTABLE</source>
-        <translation type="unfinished"></translation>
+        <translation>DTC NIJE PRIHVATLJIV</translation>
     </message>
     <message>
         <location filename="EOBD/classEobdCTCzech.cpp" line="971"/>
         <source>VOLTAGE</source>
         <comment>ONLY FOR CzECH</comment>
-        <translation type="unfinished"></translation>
+        <translation>NAPON</translation>
     </message>
     <message>
         <location filename="EOBD/classEobdCTCzech.cpp" line="983"/>
         <source>COURANT</source>
         <comment>ONLY FOR CzECH</comment>
-        <translation type="unfinished"></translation>
+        <translation>STRUJA</translation>
     </message>
     <message>
         <location filename="EOBD/classEobdCTCzech.cpp" line="1197"/>
         <source>is it emulation</source>
-        <translation type="unfinished"></translation>
+        <translation>je li emulacija</translation>
     </message>
     <message>
         <location filename="EOBD/classEobdCTCzech.cpp" line="1197"/>
         <source>sensor?</source>
-        <translation type="unfinished"></translation>
+        <translation>senzor?</translation>
     </message>
     <message>
         <location filename="EOBD/classEobdCTCzech.cpp" line="1405"/>
         <source>REMAIN AT IDLE SPEED</source>
-        <translation type="unfinished"></translation>
+        <translation>DRŽITE U PRAZNOM HODU</translation>
     </message>
     <message>
         <location filename="EOBD/classEobdCTCzech.cpp" line="1739"/>
         <source>Test finished</source>
-        <translation type="unfinished"></translation>
+        <translation>Ispit gotov</translation>
     </message>
     <message>
         <location filename="EOBD/classEobdCTCzech.cpp" line="1948"/>
@@ -4682,7 +4682,7 @@ i ažuriranje će biti gotovo</translation>
         <location filename="EOBD/classEobdCTPolish.cpp" line="295"/>
         <location filename="EOBD/classEobdCTSet.cpp" line="215"/>
         <source>The MIL light</source>
-        <translation>Jeli MIL svijetlo</translation>
+        <translation>Jeli MIL svjetlo</translation>
     </message>
     <message>
         <location filename="EOBD/classEobdCTCzech.cpp" line="245"/>
@@ -4804,7 +4804,7 @@ i ažuriranje će biti gotovo</translation>
         <location filename="EOBD/classeobd.cpp" line="204"/>
         <source>EOBD SETTINGS</source>
         <comment>ONLY POLISH VERSION</comment>
-        <translation type="unfinished"></translation>
+        <translation>EOBD POSTAVKE</translation>
     </message>
     <message>
         <location filename="EOBD/classEobdCTPolish.cpp" line="327"/>
@@ -4822,27 +4822,27 @@ i ažuriranje će biti gotovo</translation>
         <location filename="EOBD/classEobdCTSet.cpp" line="503"/>
         <source>TEST COMPLETED</source>
         <comment>POLISH PROCEDURE</comment>
-        <translation type="unfinished"></translation>
+        <translation>ISPIT GOTOV</translation>
     </message>
     <message>
         <location filename="EOBD/classEobdCTPolish.cpp" line="619"/>
         <location filename="EOBD/classEobdCTSet.cpp" line="510"/>
         <source>TEST NOT PERFORMED</source>
         <comment>POLISH PROCEDURE</comment>
-        <translation type="unfinished"></translation>
+        <translation>ISPIT NIJE PROVEDEN</translation>
     </message>
     <message>
         <location filename="EOBD/classEobdCTPolish.cpp" line="686"/>
         <location filename="EOBD/classeobd.cpp" line="170"/>
         <source>VOLTAGE</source>
         <comment>ONLY FOR POLISH</comment>
-        <translation type="unfinished"></translation>
+        <translation>NAPON</translation>
     </message>
     <message>
         <location filename="EOBD/classEobdCTPolish.cpp" line="696"/>
         <source>COURANT</source>
         <comment>ONLY FOR POLISH</comment>
-        <translation type="unfinished"></translation>
+        <translation>STRUJA</translation>
     </message>
     <message>
         <location filename="EOBD/classEobdCTCzech.cpp" line="1034"/>
@@ -4989,7 +4989,7 @@ i ažuriranje će biti gotovo</translation>
         <location filename="EOBD/classEobdCTPolish.cpp" line="986"/>
         <source>LIM MIN:</source>
         <comment>ONLY POLISH VERSION</comment>
-        <translation type="unfinished"></translation>
+        <translation>LIM MIN:</translation>
     </message>
     <message>
         <location filename="EOBD/classEobdCTCzech.cpp" line="1303"/>
@@ -5000,7 +5000,7 @@ i ažuriranje će biti gotovo</translation>
         <location filename="EOBD/classEobdCTPolish.cpp" line="1026"/>
         <source>LIM MAX:</source>
         <comment>ONLY POLISH VERSION</comment>
-        <translation type="unfinished"></translation>
+        <translation>LIM MAX:</translation>
     </message>
     <message>
         <location filename="EOBD/classEobdCTCzech.cpp" line="1402"/>
@@ -5085,42 +5085,42 @@ i ažuriranje će biti gotovo</translation>
         <location filename="EOBD/classeobd.cpp" line="104"/>
         <source>RPM MIN:</source>
         <comment>ONLY FOR POLISH VERSION</comment>
-        <translation type="unfinished">RPM MIN:</translation>
+        <translation>OKRETAJI MIN:</translation>
     </message>
     <message>
         <location filename="EOBD/classeobd.cpp" line="169"/>
         <source>LAMBDA</source>
         <comment>ONLY FOR POLISH</comment>
-        <translation type="unfinished"></translation>
+        <translation>LAMBDA</translation>
     </message>
     <message>
         <location filename="EOBD/classeobd.cpp" line="178"/>
         <source>VISUAL CONTROL</source>
         <comment>ONLY POLISH VERSION</comment>
-        <translation type="unfinished"></translation>
+        <translation>VIZALNA KONTROLA:</translation>
     </message>
     <message>
         <location filename="EOBD/classeobd.cpp" line="184"/>
         <source>PASS</source>
         <comment>ONLY FOR POLISH</comment>
-        <translation type="unfinished"></translation>
+        <translation>VOZILO PROŠLO</translation>
     </message>
     <message>
         <location filename="EOBD/classeobd.cpp" line="185"/>
         <source>FAIL</source>
         <comment>ONLY FOR POLISH</comment>
-        <translation type="unfinished"></translation>
+        <translation>VOZILO NIJE PROŠLO</translation>
     </message>
     <message>
         <location filename="EOBD/classeobd.cpp" line="196"/>
         <source>RPM MAX:</source>
         <comment>ONLY FOR POLISH VERSION</comment>
-        <translation type="unfinished">RPM MAX:</translation>
+        <translation>OKRETAJI MAX:</translation>
     </message>
     <message>
         <location filename="EOBD/classeobd.cpp" line="288"/>
         <source>RPM</source>
-        <translation>RPM</translation>
+        <translation>Okretaji</translation>
     </message>
     <message>
         <location filename="EOBD/classeobd.cpp" line="412"/>
@@ -5230,22 +5230,22 @@ Podaci kalkulatora</translation>
     <message>
         <location filename="EOBD/classeobd.cpp" line="433"/>
         <source>TEST IS PENDING</source>
-        <translation>ISPIT SE ČEKA</translation>
+        <translation>ISPIT NA ČEKANJU</translation>
     </message>
     <message>
         <location filename="EOBD/classeobd.cpp" line="435"/>
         <source>TEST CONFORM</source>
-        <translation type="unfinished"></translation>
+        <translation>ISPIT PRIDRŽAVA</translation>
     </message>
     <message>
         <location filename="EOBD/classeobd.cpp" line="435"/>
         <source>TEST NO CONFORM</source>
-        <translation type="unfinished"></translation>
+        <translation>ISPIT NE PRIDRŽAVA</translation>
     </message>
     <message>
         <location filename="EOBD/classeobd.cpp" line="435"/>
         <source>Použitý rezim lambda X</source>
-        <translation type="unfinished"></translation>
+        <translation>Koristi režim lambda X</translation>
     </message>
     <message>
         <location filename="EOBD/classeobd.cpp" line="504"/>
@@ -5260,43 +5260,43 @@ Podaci kalkulatora</translation>
     <message>
         <location filename="EOBD/classeobd.cpp" line="504"/>
         <source>LIGHT INDICATING</source>
-        <translation>SVIJETLO INDICIRA</translation>
+        <translation>SVJETLO INDICIRA</translation>
     </message>
     <message>
         <location filename="EOBD/classeobd.cpp" line="1127"/>
         <source>SUCCESSFUL PRINTING</source>
-        <translation type="unfinished">USPJEŠAN ISPIS</translation>
+        <translation>USPJEŠAN ISPIS</translation>
     </message>
     <message>
         <location filename="EOBD/classeobd.cpp" line="1138"/>
         <source>SUCCESSFUL TRANSMISSION</source>
-        <translation type="unfinished"></translation>
+        <translation>USPJEŠAN PRIJENOS</translation>
     </message>
     <message>
         <location filename="EOBD/classeobd.cpp" line="1144"/>
         <source>PROBLEM TRANSMISSION</source>
-        <translation type="unfinished"></translation>
+        <translation>PROBLEM U PRIJENOSU</translation>
     </message>
     <message>
         <location filename="EOBD/classEobdCTCzech.cpp" line="383"/>
         <location filename="EOBD/classeobd.cpp" line="1488"/>
         <source>CVN</source>
-        <translation type="unfinished"></translation>
+        <translation>CVN</translation>
     </message>
     <message>
         <location filename="EOBD/classEobdCTSet.cpp" line="249"/>
         <source>Confirm EOBD connection? </source>
-        <translation type="unfinished"></translation>
+        <translation>Potvrdi EOBD vezu?</translation>
     </message>
     <message>
         <location filename="EOBD/classEobdCTSet.cpp" line="249"/>
         <source>Start the engine before launching</source>
-        <translation type="unfinished"></translation>
+        <translation>Upalite motor prije pokretanja</translation>
     </message>
     <message>
         <location filename="EOBD/classEobdCTSet.cpp" line="520"/>
         <source>Not supported</source>
-        <translation type="unfinished"></translation>
+        <translation>Nije podržano</translation>
     </message>
     <message>
         <location filename="EOBD/classEobdCTSet.cpp" line="697"/>
@@ -5460,12 +5460,12 @@ Podaci kalkulatora</translation>
     <message>
         <location filename="EOBD/classeobd.cpp" line="1464"/>
         <source>RPM MIN:</source>
-        <translation>RPM MIN:</translation>
+        <translation>OKRETAJI MIN:</translation>
     </message>
     <message>
         <location filename="EOBD/classeobd.cpp" line="1467"/>
         <source>RPM MAX:</source>
-        <translation>RPM MAX:</translation>
+        <translation>OKRETAJI MAX:</translation>
     </message>
 </context>
 <context>
@@ -5784,7 +5784,7 @@ Podaci kalkulatora</translation>
         <location filename="OPACITE/classOpaciteProcStandard.cpp" line="585"/>
         <location filename="OPACITE/classOpciteProcPortuguese.cpp" line="612"/>
         <source>VERDICT:</source>
-        <translation>PRESUDA:</translation>
+        <translation>REZULTAT:</translation>
     </message>
     <message>
         <location filename="OPACITE/classOpaciteProcBelgian.cpp" line="929"/>
@@ -5843,7 +5843,7 @@ Podaci kalkulatora</translation>
         <location filename="OPACITE/classopaciteanalyse.cpp" line="198"/>
         <source>ZERO IN PROGRESS</source>
         <comment>ONLY FOR FINNISH VERSION</comment>
-        <translation type="unfinished">NULIRANJE U TIJEKU</translation>
+        <translation>NULIRANJE U TIJEKU</translation>
     </message>
     <message>
         <location filename="OPACITE/classOpaciteProcFinlande.cpp" line="356"/>
@@ -5878,21 +5878,21 @@ Podaci kalkulatora</translation>
         <location filename="OPACITE/classOpaciteProcVP.cpp" line="458"/>
         <source> Vehicle category:    EURO IV/V</source>
         <comment>ONLY FINNISH VERSION</comment>
-        <translation type="unfinished"></translation>
+        <translation>Kategorija vozila:   EURO IV/V</translation>
     </message>
     <message>
         <location filename="OPACITE/classOpaciteProcFinlande.cpp" line="552"/>
         <location filename="OPACITE/classOpaciteProcVP.cpp" line="460"/>
         <source> Vehicle category: No Turbo</source>
         <comment>ONLY FINNISH VERSION</comment>
-        <translation type="unfinished"></translation>
+        <translation>Kategorija vozila: Bez turbine</translation>
     </message>
     <message>
         <location filename="OPACITE/classOpaciteProcFinlande.cpp" line="554"/>
         <location filename="OPACITE/classOpaciteProcVP.cpp" line="462"/>
         <source> Vehicle category: Turbo Engine</source>
         <comment>ONLY FINNISH VERSION</comment>
-        <translation type="unfinished"></translation>
+        <translation>Kategorija vozila: S turbinom</translation>
     </message>
     <message>
         <location filename="OPACITE/classOpaciteProcFinlande.cpp" line="559"/>
@@ -5912,7 +5912,7 @@ Podaci kalkulatora</translation>
         <location filename="OPACITE/classOpaciteProcVP.cpp" line="468"/>
         <source>Opacity limit mean:  </source>
         <comment>ONLY FINNISH VERSION</comment>
-        <translation type="unfinished"></translation>
+        <translation>Srednji limit zacrnjenosti:  </translation>
     </message>
     <message>
         <location filename="OPACITE/classOpaciteProcChili.cpp" line="567"/>
@@ -5935,7 +5935,7 @@ Podaci kalkulatora</translation>
         <location filename="OPACITE/classOpaciteProcVP.cpp" line="492"/>
         <source>Arrow Results</source>
         <comment>ONLY FOR FINNISH VERSION</comment>
-        <translation type="unfinished">Rezultati</translation>
+        <translation>Rezultati</translation>
     </message>
     <message>
         <location filename="OPACITE/classOpaciteProcFinlande.cpp" line="591"/>
@@ -5947,7 +5947,7 @@ Podaci kalkulatora</translation>
         <location filename="OPACITE/classOpaciteProcFinlande.cpp" line="597"/>
         <location filename="OPACITE/classOpaciteProcVP.cpp" line="502"/>
         <source>VERDICT</source>
-        <translation>PRESUDA</translation>
+        <translation>REZULTAT</translation>
     </message>
     <message>
         <location filename="OPACITE/classOpaciteProcBelgian.cpp" line="409"/>
@@ -6004,109 +6004,109 @@ Podaci kalkulatora</translation>
         <location filename="OPACITE/classopaciteanalyse.cpp" line="791"/>
         <location filename="OPACITE/classopaciteanalyse.cpp" line="793"/>
         <source>Release N°</source>
-        <translation>Izdanje N°</translation>
+        <translation>Čekanje N°</translation>
     </message>
     <message>
         <location filename="OPACITE/classOpaciteProcCzech.cpp" line="455"/>
         <location filename="OPACITE/classOpaciteProcCzech.cpp" line="1067"/>
         <location filename="OPACITE/classOpaciteProcCzech.cpp" line="1684"/>
         <source>Exhaust system purge</source>
-        <translation type="unfinished"></translation>
+        <translation>Čišćenje ispušnog sustava</translation>
     </message>
     <message>
         <location filename="OPACITE/classOpaciteProcCzech.cpp" line="455"/>
         <location filename="OPACITE/classOpaciteProcCzech.cpp" line="1067"/>
         <location filename="OPACITE/classOpaciteProcCzech.cpp" line="1684"/>
         <source>Push validate to start Measure</source>
-        <translation type="unfinished"></translation>
+        <translation>Pritisnite za pokretanje mjerenja</translation>
     </message>
     <message>
         <location filename="OPACITE/classOpaciteProcCzech.cpp" line="217"/>
         <location filename="OPACITE/classOpaciteProcCzech.cpp" line="868"/>
         <location filename="OPACITE/classOpaciteProcCzech.cpp" line="1456"/>
         <source>Oil Temp. Checking</source>
-        <translation type="unfinished"></translation>
+        <translation>Provjera temp. ulja</translation>
     </message>
     <message>
         <location filename="OPACITE/classOpaciteProcCzech.cpp" line="217"/>
         <location filename="OPACITE/classOpaciteProcCzech.cpp" line="868"/>
         <location filename="OPACITE/classOpaciteProcCzech.cpp" line="1456"/>
         <source>Insert the Oil Temp Probe</source>
-        <translation type="unfinished"></translation>
+        <translation>Umetnite sondu za mjerenje temp. ulja</translation>
     </message>
     <message>
         <location filename="OPACITE/classOpaciteProcCzech.cpp" line="255"/>
         <location filename="OPACITE/classOpaciteProcCzech.cpp" line="909"/>
         <location filename="OPACITE/classOpaciteProcCzech.cpp" line="1498"/>
         <source>Input OIL Temp.</source>
-        <translation type="unfinished"></translation>
+        <translation>Unos temp. ulja</translation>
     </message>
     <message>
         <location filename="OPACITE/classOpaciteProcCzech.cpp" line="654"/>
         <location filename="OPACITE/classOpaciteProcCzech.cpp" line="1268"/>
         <location filename="OPACITE/classOpaciteProcCzech.cpp" line="1860"/>
         <source>SUCCESSFULL PRINTING PROTOCOLO</source>
-        <translation type="unfinished"></translation>
+        <translation>USPJEŠAN ISPIS PROTOKOLA</translation>
     </message>
     <message>
         <location filename="OPACITE/classOpaciteProcCzech.cpp" line="687"/>
         <source>1-NO DTC</source>
-        <translation type="unfinished"></translation>
+        <translation>1- BEZ DTC</translation>
     </message>
     <message>
         <location filename="OPACITE/classOpaciteProcCzech.cpp" line="687"/>
         <source>2-DTC COMPLY With Classification</source>
-        <translation type="unfinished"></translation>
+        <translation>2-DTC PRIDRŽAVANJE s klasifikacijom</translation>
     </message>
     <message>
         <location filename="OPACITE/classOpaciteProcCzech.cpp" line="687"/>
         <source>3-DTC NOT COMPLY</source>
-        <translation type="unfinished"></translation>
+        <translation>3-DTC BEZ PRIDRŽAVANJA</translation>
     </message>
     <message>
         <location filename="OPACITE/classOpaciteProcCzech.cpp" line="725"/>
         <location filename="OPACITE/classOpaciteProcCzech.cpp" line="739"/>
         <source>Input DTC</source>
-        <translation type="unfinished"></translation>
+        <translation>Unos DTC</translation>
     </message>
     <message>
         <location filename="OPACITE/classOpaciteProcCzech.cpp" line="944"/>
         <location filename="OPACITE/classOpaciteProcCzech.cpp" line="1559"/>
         <source>RPM Checking Stability</source>
-        <translation type="unfinished"></translation>
+        <translation>Provjera stabilnosti okretaja</translation>
     </message>
     <message>
         <location filename="OPACITE/classOpaciteProcCzech.cpp" line="944"/>
         <location filename="OPACITE/classOpaciteProcCzech.cpp" line="1559"/>
         <source>Attach the engine speed measurement device</source>
-        <translation type="unfinished"></translation>
+        <translation>Spojite mjerač okretaja</translation>
     </message>
     <message>
         <location filename="OPACITE/classOpaciteProcCzech.cpp" line="944"/>
         <location filename="OPACITE/classOpaciteProcCzech.cpp" line="1559"/>
         <source>Please, Apply Load (Lights, Ventilation...)</source>
-        <translation type="unfinished"></translation>
+        <translation>Molimo, dodajte teret (svjetla, ventilaciju...)</translation>
     </message>
     <message>
         <location filename="OPACITE/classOpaciteProcCzech.cpp" line="1090"/>
         <source>WAIT AT IDLE SPEED</source>
-        <translation type="unfinished"></translation>
+        <translation>ČEKAJTE U PRAZNOM HODU</translation>
     </message>
     <message>
         <location filename="OPACITE/classOpaciteProcCzech.cpp" line="1090"/>
         <source>INIT. IN PROGRESS</source>
-        <translation type="unfinished"></translation>
+        <translation>INICIJALIZACIJA U TIJEKU</translation>
     </message>
     <message>
         <location filename="OPACITE/classOpaciteProcCzech.cpp" line="1098"/>
         <location filename="OPACITE/classOpaciteProcCzech.cpp" line="1715"/>
         <source>MODE RPM</source>
-        <translation type="unfinished"></translation>
+        <translation>MOD OKRETAJA</translation>
     </message>
     <message>
         <location filename="OPACITE/classOpaciteProcCzech.cpp" line="689"/>
         <source>please select</source>
-        <translation type="unfinished"></translation>
+        <translation>Molimo odaberite</translation>
     </message>
     <message>
         <location filename="OPACITE/classOpaciteProcCzech.cpp" line="316"/>
@@ -6149,17 +6149,17 @@ Podaci kalkulatora</translation>
     <message>
         <location filename="OPACITE/classOpaciteProcCzech.cpp" line="689"/>
         <source>an option</source>
-        <translation type="unfinished"></translation>
+        <translation>jednu opciju</translation>
     </message>
     <message>
         <location filename="OPACITE/classOpaciteProcCzech.cpp" line="1605"/>
         <source>Checking RPM Limiter</source>
-        <translation type="unfinished"></translation>
+        <translation>Provjeravanje limitatora okretaja</translation>
     </message>
     <message>
         <location filename="OPACITE/classOpaciteProcCzech.cpp" line="1605"/>
         <source>Please accelerate to the maximun RPM</source>
-        <translation type="unfinished"></translation>
+        <translation>Molimo ubrzajte do maksimalnih okretaja</translation>
     </message>
     <message>
         <location filename="OPACITE/classOpaciteProcCzech.cpp" line="1973"/>
@@ -6181,26 +6181,26 @@ Podaci kalkulatora</translation>
     <message>
         <location filename="OPACITE/classOpaciteProcCzech.cpp" line="2426"/>
         <source>Fuel:</source>
-        <translation type="unfinished"></translation>
+        <translation>Gorivo:</translation>
     </message>
     <message>
         <location filename="OPACITE/classOpaciteProcCzech.cpp" line="2428"/>
         <source>Oil Temp.:</source>
-        <translation type="unfinished"></translation>
+        <translation>Temp. ulja:</translation>
     </message>
     <message>
         <location filename="OPACITE/classOpaciteProcCzech.cpp" line="2451"/>
         <location filename="OPACITE/classOpaciteProcCzech.cpp" line="2474"/>
         <location filename="OPACITE/classOpaciteProcCzech.cpp" line="2504"/>
         <source>Average from last</source>
-        <translation type="unfinished"></translation>
+        <translation>Prosjek prijašnjih</translation>
     </message>
     <message>
         <location filename="OPACITE/classOpaciteProcCzech.cpp" line="2451"/>
         <location filename="OPACITE/classOpaciteProcCzech.cpp" line="2474"/>
         <location filename="OPACITE/classOpaciteProcCzech.cpp" line="2504"/>
         <source>valid</source>
-        <translation type="unfinished"></translation>
+        <translation>ispravan</translation>
     </message>
     <message>
         <location filename="OPACITE/classOpaciteProcCzech.cpp" line="2455"/>
@@ -6211,13 +6211,13 @@ Podaci kalkulatora</translation>
         <location filename="OPACITE/classOpaciteProcCzech.cpp" line="2476"/>
         <location filename="OPACITE/classOpaciteProcCzech.cpp" line="2506"/>
         <source>Limit</source>
-        <translation type="unfinished"></translation>
+        <translation>Limit</translation>
     </message>
     <message>
         <location filename="OPACITE/classOpaciteProcCzech.cpp" line="2481"/>
         <location filename="OPACITE/classOpaciteProcCzech.cpp" line="2511"/>
         <source>DTC</source>
-        <translation type="unfinished"></translation>
+        <translation>DTC</translation>
     </message>
     <message>
         <location filename="OPACITE/classOpaciteProcCzech.cpp" line="2482"/>
@@ -6227,13 +6227,13 @@ Podaci kalkulatora</translation>
     <message>
         <location filename="OPACITE/classOpaciteProcCzech.cpp" line="2548"/>
         <source>Inspection of LPG/CNG container</source>
-        <translation type="unfinished"></translation>
+        <translation>Inspekcija LPG/CNG spremnika</translation>
     </message>
     <message>
         <location filename="OPACITE/classOpaciteProcCzech.cpp" line="2640"/>
         <source>Raise the engine speed to</source>
         <comment>FOR CZECH VERSION</comment>
-        <translation type="unfinished"></translation>
+        <translation>Dignite okretaje do </translation>
     </message>
     <message>
         <location filename="OPACITE/classOpaciteProcCzech.cpp" line="2640"/>
@@ -6241,7 +6241,7 @@ Podaci kalkulatora</translation>
         <location filename="OPACITE/classOpaciteProcCzech.cpp" line="2671"/>
         <source>between</source>
         <comment>FOR CZECH VERSION</comment>
-        <translation type="unfinished"></translation>
+        <translation>između</translation>
     </message>
     <message>
         <location filename="OPACITE/classOpaciteProcCzech.cpp" line="2640"/>
@@ -6249,7 +6249,7 @@ Podaci kalkulatora</translation>
         <location filename="OPACITE/classOpaciteProcCzech.cpp" line="2671"/>
         <source>and</source>
         <comment>FOR CZECH VERSION</comment>
-        <translation type="unfinished"></translation>
+        <translation>i</translation>
     </message>
     <message>
         <location filename="OPACITE/classOpaciteProcCzech.cpp" line="2640"/>
@@ -6257,37 +6257,37 @@ Podaci kalkulatora</translation>
         <location filename="OPACITE/classOpaciteProcCzech.cpp" line="2671"/>
         <source>rpm</source>
         <comment>FOR CZECH VERSION</comment>
-        <translation type="unfinished">rpm</translation>
+        <translation>okretaja</translation>
     </message>
     <message>
         <location filename="OPACITE/classOpaciteProcCzech.cpp" line="2652"/>
         <source>Decrease the engine speed to</source>
         <comment>FOR CZECH VERSION</comment>
-        <translation type="unfinished"></translation>
+        <translation>Spustite okretaje do</translation>
     </message>
     <message>
         <location filename="OPACITE/classOpaciteProcCzech.cpp" line="2671"/>
         <source>Maintain RPM</source>
         <comment>FOR CZECH VERSION</comment>
-        <translation type="unfinished"></translation>
+        <translation>Držite okretaje</translation>
     </message>
     <message>
         <location filename="OPACITE/classOpaciteProcCzech.cpp" line="2819"/>
         <location filename="OPACITE/classOpaciteProcCzech.cpp" line="3083"/>
         <source>Výsledek vizuální kontroly:</source>
-        <translation type="unfinished"></translation>
+        <translation>Rezultat vizualnog pregleda:</translation>
     </message>
     <message>
         <location filename="OPACITE/classOpaciteProcCzech.cpp" line="2825"/>
         <location filename="OPACITE/classOpaciteProcCzech.cpp" line="2852"/>
         <source>Výsledek kontroly readiness kódů:</source>
-        <translation type="unfinished"></translation>
+        <translation>Rezultat provjere koda spremnosti:</translation>
     </message>
     <message>
         <location filename="OPACITE/classOpaciteProcCzech.cpp" line="2830"/>
         <location filename="OPACITE/classOpaciteProcCzech.cpp" line="2860"/>
         <source>Výsledek kontroly závad řídící jednotky motoru:</source>
-        <translation type="unfinished"></translation>
+        <translation>Rezultat provjere upravljača:</translation>
     </message>
     <message>
         <location filename="OPACITE/classOpaciteProcCzech.cpp" line="2879"/>
@@ -6295,7 +6295,7 @@ Podaci kalkulatora</translation>
         <location filename="OPACITE/classOpaciteProcCzech.cpp" line="2891"/>
         <location filename="OPACITE/classOpaciteProcCzech.cpp" line="2899"/>
         <source>Vyhodnocení stavu řídící jednotky:</source>
-        <translation type="unfinished"></translation>
+        <translation>Ocjena stanja upravljača:</translation>
     </message>
     <message>
         <location filename="OPACITE/classOpaciteProcCzech.cpp" line="2879"/>
@@ -6303,35 +6303,35 @@ Podaci kalkulatora</translation>
         <location filename="OPACITE/classOpaciteProcCzech.cpp" line="2886"/>
         <location filename="OPACITE/classOpaciteProcCzech.cpp" line="2892"/>
         <source>W/O</source>
-        <translation type="unfinished"></translation>
+        <translation>W/O</translation>
     </message>
     <message>
         <location filename="OPACITE/classOpaciteProcCzech.cpp" line="2885"/>
         <source>Manually add DTC</source>
-        <translation type="unfinished"></translation>
+        <translation>Ručno dodavanje DTC</translation>
     </message>
     <message>
         <location filename="OPACITE/classOpaciteProcCzech.cpp" line="2891"/>
         <source>Manually add DTC with relevant</source>
-        <translation type="unfinished"></translation>
+        <translation>Ručno dodavanje DTC s bitnim</translation>
     </message>
     <message>
         <location filename="OPACITE/classOpaciteProcCzech.cpp" line="2904"/>
         <location filename="OPACITE/classOpaciteProcCzech.cpp" line="3086"/>
         <source>Otáčky [min-1]</source>
-        <translation type="unfinished"></translation>
+        <translation>Brzina [min-1]</translation>
     </message>
     <message>
         <location filename="OPACITE/classOpaciteProcCzech.cpp" line="2904"/>
         <location filename="OPACITE/classOpaciteProcCzech.cpp" line="3086"/>
         <source>Předepsané </source>
-        <translation type="unfinished"></translation>
+        <translation>Propisano </translation>
     </message>
     <message>
         <location filename="OPACITE/classOpaciteProcCzech.cpp" line="2904"/>
         <location filename="OPACITE/classOpaciteProcCzech.cpp" line="3086"/>
         <source>Naměřené</source>
-        <translation type="unfinished"></translation>
+        <translation>mjeriti</translation>
     </message>
     <message>
         <location filename="OPACITE/classOpaciteProcCzech.cpp" line="2909"/>
@@ -6339,7 +6339,7 @@ Podaci kalkulatora</translation>
         <location filename="OPACITE/classOpaciteProcCzech.cpp" line="3092"/>
         <location filename="OPACITE/classOpaciteProcCzech.cpp" line="3115"/>
         <source>Volnoběžné</source>
-        <translation type="unfinished"></translation>
+        <translation>prazan hod</translation>
     </message>
     <message>
         <location filename="OPACITE/classOpaciteProcCzech.cpp" line="2912"/>
@@ -6347,7 +6347,7 @@ Podaci kalkulatora</translation>
         <location filename="OPACITE/classOpaciteProcCzech.cpp" line="3095"/>
         <location filename="OPACITE/classOpaciteProcCzech.cpp" line="3118"/>
         <source>Přeběhové</source>
-        <translation type="unfinished"></translation>
+        <translation>Preveliku brzinu</translation>
     </message>
     <message>
         <location filename="OPACITE/classOpaciteProcCzech.cpp" line="2915"/>
@@ -6355,7 +6355,7 @@ Podaci kalkulatora</translation>
         <location filename="OPACITE/classOpaciteProcCzech.cpp" line="3098"/>
         <location filename="OPACITE/classOpaciteProcCzech.cpp" line="3121"/>
         <source>Korigovaný součinitel absorpce [m-1]</source>
-        <translation type="unfinished"></translation>
+        <translation>Korigirani koeficijent apsorpcije [M-1]</translation>
     </message>
     <message>
         <location filename="OPACITE/classOpaciteProcCzech.cpp" line="2918"/>
@@ -6363,7 +6363,7 @@ Podaci kalkulatora</translation>
         <location filename="OPACITE/classOpaciteProcCzech.cpp" line="3101"/>
         <location filename="OPACITE/classOpaciteProcCzech.cpp" line="3124"/>
         <source>Hodnota kouřivosti naměřená [m-1]</source>
-        <translation type="unfinished"></translation>
+        <translation>Izmjerena Dim vrijednost [m-1]</translation>
     </message>
     <message>
         <location filename="OPACITE/classOpaciteProcCzech.cpp" line="2921"/>
@@ -6379,7 +6379,7 @@ Podaci kalkulatora</translation>
         <location filename="OPACITE/classOpaciteProcCzech.cpp" line="3104"/>
         <location filename="OPACITE/classOpaciteProcCzech.cpp" line="3127"/>
         <source>Rozpětí hodnot kouřivosti čtyř po sobě jdoucích měření [m-1]</source>
-        <translation type="unfinished"></translation>
+        <translation>Raspon vrijednosti dimometra četiri uzastopna mjerenja [m-1]</translation>
     </message>
     <message>
         <location filename="OPACITE/classOpaciteProcCzech.cpp" line="2924"/>
@@ -6387,12 +6387,12 @@ Podaci kalkulatora</translation>
         <location filename="OPACITE/classOpaciteProcCzech.cpp" line="3107"/>
         <location filename="OPACITE/classOpaciteProcCzech.cpp" line="3130"/>
         <source>naměřené</source>
-        <translation type="unfinished"></translation>
+        <translation>mjeriti</translation>
     </message>
     <message>
         <location filename="OPACITE/classOpaciteProcFrance.cpp" line="894"/>
         <source>RELEASE</source>
-        <translation>IZDANJE</translation>
+        <translation>ČEKAJTE</translation>
     </message>
     <message>
         <location filename="OPACITE/classOpaciteProcFrance.cpp" line="1043"/>
@@ -6411,12 +6411,12 @@ Podaci kalkulatora</translation>
     <message>
         <location filename="OPACITE/classOpaciteProcFrance.cpp" line="1602"/>
         <source>Addition Exhaust Test</source>
-        <translation type="unfinished"></translation>
+        <translation>Ispit dodatnog ispuha</translation>
     </message>
     <message>
         <location filename="OPACITE/classOpaciteProcFrance.cpp" line="1602"/>
         <source>Change Probe Position</source>
-        <translation type="unfinished"></translation>
+        <translation>Promijeni položaj sonde</translation>
     </message>
     <message>
         <location filename="OPACITE/classOpaciteProcCzech.cpp" line="654"/>
@@ -6481,7 +6481,7 @@ Podaci kalkulatora</translation>
     <message>
         <location filename="OPACITE/classopacite.cpp" line="517"/>
         <source>GAS</source>
-        <translation>Plin</translation>
+        <translation>PLIN</translation>
     </message>
     <message>
         <location filename="OPACITE/classopacite.cpp" line="470"/>
@@ -6493,32 +6493,32 @@ Podaci kalkulatora</translation>
     <message>
         <location filename="OPACITE/classopacite.cpp" line="116"/>
         <source>OBD SYSTEM CONFORM</source>
-        <translation type="unfinished">OBD SISTEM POPUSTLJIV</translation>
+        <translation>OBD SISTEM ISPRAVAN</translation>
     </message>
     <message>
         <location filename="OPACITE/classopacite.cpp" line="116"/>
         <source>OBD SYSTEM NO CONFORM</source>
-        <translation type="unfinished">OBD SISTEM NIJE POPUSTLJIV</translation>
+        <translation>OBD SISTEM NIJE ISPRAVAN</translation>
     </message>
     <message>
         <location filename="OPACITE/classopacite.cpp" line="116"/>
         <source>PROTOCOL NOT RECOGNIZED</source>
-        <translation type="unfinished">PROTOKOL NIJE PREPOZNAT</translation>
+        <translation>PROTOKOL NIJE PREPOZNAT</translation>
     </message>
     <message>
         <location filename="OPACITE/classopacite.cpp" line="116"/>
         <source>TEST NOT DONE</source>
-        <translation type="unfinished">ISPIT NIJE GOTOV</translation>
+        <translation>ISPIT NIJE GOTOV</translation>
     </message>
     <message>
         <location filename="OPACITE/classopacite.cpp" line="116"/>
         <source>TEST CONFORM</source>
-        <translation type="unfinished"></translation>
+        <translation>ISPIT PROŠAO</translation>
     </message>
     <message>
         <location filename="OPACITE/classopacite.cpp" line="116"/>
         <source>TEST NO CONFORM</source>
-        <translation type="unfinished"></translation>
+        <translation>ISPIT NIJE PROŠAO</translation>
     </message>
     <message>
         <location filename="OPACITE/classopacite.cpp" line="465"/>
@@ -6529,7 +6529,7 @@ Podaci kalkulatora</translation>
     <message>
         <location filename="OPACITE/classopacite.cpp" line="611"/>
         <source>Time (s)</source>
-        <translation type="unfinished"></translation>
+        <translation>Vrijeme (s)</translation>
     </message>
     <message>
         <location filename="OPACITE/classopacite.cpp" line="656"/>
@@ -6543,25 +6543,25 @@ Podaci kalkulatora</translation>
         <location filename="OPACITE/classopacite.cpp" line="5225"/>
         <source>OPACITY LIMIT MEAN:</source>
         <comment>ONLY FOR FINNISH VERSION</comment>
-        <translation type="unfinished"></translation>
+        <translation>SREDNJI LIMIT ZACRNJENOSTI:</translation>
     </message>
     <message>
         <location filename="OPACITE/classopacite.cpp" line="664"/>
         <source>OIL TEMP. PRINTOUT:</source>
         <comment>ONLY FOR FINNISH VERSION</comment>
-        <translation type="unfinished"></translation>
+        <translation>ISPIS TEMP. ULJA:</translation>
     </message>
     <message>
         <location filename="OPACITE/classopacite.cpp" line="670"/>
         <source>YES</source>
         <comment>ONLY FINNISH VERSION</comment>
-        <translation type="unfinished">DA</translation>
+        <translation>DA</translation>
     </message>
     <message>
         <location filename="OPACITE/classopacite.cpp" line="671"/>
         <source>NO</source>
         <comment>ONLY FINNISH VERSION</comment>
-        <translation type="unfinished">NE</translation>
+        <translation>NE</translation>
     </message>
     <message>
         <location filename="OPACITE/classopacite.cpp" line="675"/>
@@ -6573,22 +6573,22 @@ Podaci kalkulatora</translation>
         <location filename="OPACITE/classopacite.cpp" line="692"/>
         <source>TYPE PROBE: CAP10</source>
         <comment>ONLY FINNISH VERSION</comment>
-        <translation type="unfinished"></translation>
+        <translation>Tip sonde: CAP10</translation>
     </message>
     <message>
         <location filename="OPACITE/classopacite.cpp" line="963"/>
         <source>LIGHT OFF</source>
-        <translation type="unfinished">SVIJETLA ISKLJUČENA</translation>
+        <translation>SVJETLO ISKLJUČENO</translation>
     </message>
     <message>
         <location filename="OPACITE/classopacite.cpp" line="963"/>
         <source>LIGHT ON</source>
-        <translation type="unfinished">SVIJETLA UKLJUČENA</translation>
+        <translation>SVIJETLO UKLJUČENO</translation>
     </message>
     <message>
         <location filename="OPACITE/classopacite.cpp" line="963"/>
         <source>LIGHT INDICATING</source>
-        <translation type="unfinished">SVIJETLO INDICIRA</translation>
+        <translation>SVIJETLO INDICIRA</translation>
     </message>
     <message>
         <location filename="OPACITE/classopacite.cpp" line="1685"/>
@@ -6654,7 +6654,7 @@ Podaci kalkulatora</translation>
     <message>
         <location filename="OPACITE/classopacite.cpp" line="5003"/>
         <source>PRINT AND TRANSMISSION DONE</source>
-        <translation type="unfinished"></translation>
+        <translation>ISPIS I PRIJENOS GOTOV</translation>
     </message>
     <message>
         <location filename="OPACITE/classOpaciteProcMot.cpp" line="1467"/>
@@ -6674,7 +6674,7 @@ Podaci kalkulatora</translation>
         <location filename="OPACITE/classopacite.cpp" line="4342"/>
         <location filename="OPACITE/classopaciteanalyse.cpp" line="972"/>
         <source>Release...</source>
-        <translation>Izadnje...</translation>
+        <translation>Čekajte...</translation>
     </message>
     <message>
         <location filename="OPACITE/classopaciteanalyse.cpp" line="290"/>
@@ -6684,12 +6684,13 @@ Podaci kalkulatora</translation>
     <message>
         <location filename="OPACITE/classopaciteanalyse.cpp" line="613"/>
         <source>SMOKE METER FREE ANALYSIS REPORT</source>
-        <translation type="unfinished"></translation>
+        <translation>DIMOMETAR
+SLOBODNO MJERENJE</translation>
     </message>
     <message>
         <location filename="OPACITE/classopaciteanalyse.cpp" line="621"/>
         <source>Gaz Temp. °c </source>
-        <translation type="unfinished"></translation>
+        <translation>Temp. plina °c </translation>
     </message>
     <message>
         <location filename="OPACITE/classOpaciteProcFrDeterUTAC.cpp" line="95"/>
@@ -6697,7 +6698,7 @@ Podaci kalkulatora</translation>
         <location filename="OPACITE/classOpaciteProcSET.cpp" line="98"/>
         <location filename="OPACITE/classopaciteProcNOX.cpp" line="102"/>
         <source>COMMUNICATION ERROR</source>
-        <translation type="unfinished"></translation>
+        <translation>GREŠKA U KOMUNIKACIJI</translation>
     </message>
     <message>
         <location filename="OPACITE/classOpaciteProcFrDeterUTAC.cpp" line="95"/>
@@ -6705,7 +6706,7 @@ Podaci kalkulatora</translation>
         <location filename="OPACITE/classOpaciteProcSET.cpp" line="98"/>
         <location filename="OPACITE/classopaciteProcNOX.cpp" line="102"/>
         <source>VERIFY CONNEXION</source>
-        <translation type="unfinished"></translation>
+        <translation>PROVJERI VEZU</translation>
     </message>
     <message>
         <location filename="OPACITE/classOpaciteProcFrDeterUTAC.cpp" line="177"/>
@@ -6713,7 +6714,7 @@ Podaci kalkulatora</translation>
         <location filename="OPACITE/classOpaciteProcSET.cpp" line="177"/>
         <location filename="OPACITE/classopaciteProcNOX.cpp" line="210"/>
         <source>CONNECT</source>
-        <translation type="unfinished"></translation>
+        <translation>SPOJI</translation>
     </message>
     <message>
         <location filename="OPACITE/classOpaciteProcFrDeterUTAC.cpp" line="177"/>
@@ -6721,7 +6722,7 @@ Podaci kalkulatora</translation>
         <location filename="OPACITE/classOpaciteProcSET.cpp" line="177"/>
         <location filename="OPACITE/classopaciteProcNOX.cpp" line="210"/>
         <source>RPM SENSOR</source>
-        <translation type="unfinished"></translation>
+        <translation>SENZOR OKRETAJA</translation>
     </message>
     <message>
         <location filename="OPACITE/classOpaciteProcFrDeterUTAC.cpp" line="195"/>
@@ -6729,7 +6730,7 @@ Podaci kalkulatora</translation>
         <location filename="OPACITE/classOpaciteProcSET.cpp" line="196"/>
         <location filename="OPACITE/classopaciteProcNOX.cpp" line="228"/>
         <source>INTRODUCE PROBE</source>
-        <translation type="unfinished"></translation>
+        <translation>UMETNITE SONDU</translation>
     </message>
     <message>
         <location filename="OPACITE/classOpaciteProcFrDeterUTAC.cpp" line="195"/>
@@ -6737,7 +6738,7 @@ Podaci kalkulatora</translation>
         <location filename="OPACITE/classOpaciteProcSET.cpp" line="196"/>
         <location filename="OPACITE/classopaciteProcNOX.cpp" line="228"/>
         <source>IN EXHAUST PIPE</source>
-        <translation type="unfinished"></translation>
+        <translation>U ISPUŠNU CIJEV</translation>
     </message>
     <message>
         <location filename="OPACITE/classOpaciteProcFrDeterUTAC.cpp" line="207"/>
@@ -6745,7 +6746,7 @@ Podaci kalkulatora</translation>
         <location filename="OPACITE/classOpaciteProcSET.cpp" line="210"/>
         <location filename="OPACITE/classopaciteProcNOX.cpp" line="240"/>
         <source>CONNECT TEMPERATURE</source>
-        <translation type="unfinished"></translation>
+        <translation>SPOJITE TEMPERATURNI</translation>
     </message>
     <message>
         <location filename="OPACITE/classOpaciteProcFrDeterUTAC.cpp" line="207"/>
@@ -6753,7 +6754,7 @@ Podaci kalkulatora</translation>
         <location filename="OPACITE/classOpaciteProcSET.cpp" line="210"/>
         <location filename="OPACITE/classopaciteProcNOX.cpp" line="240"/>
         <source>SENSOR</source>
-        <translation type="unfinished"></translation>
+        <translation>SENZOR</translation>
     </message>
     <message>
         <location filename="OPACITE/classOpaciteProcFrDeterUTAC.cpp" line="228"/>
@@ -6761,7 +6762,7 @@ Podaci kalkulatora</translation>
         <location filename="OPACITE/classOpaciteProcSET.cpp" line="231"/>
         <location filename="OPACITE/classopaciteProcNOX.cpp" line="261"/>
         <source>WAIT FOR TEMPERATURE &gt; 80 °C</source>
-        <translation type="unfinished"></translation>
+        <translation>ČEKAJTE NA TEMPERATURU &gt; 80 °c</translation>
     </message>
     <message>
         <location filename="OPACITE/classOpaciteProcFrDeterUTAC.cpp" line="650"/>
@@ -6778,21 +6779,21 @@ Podaci kalkulatora</translation>
         <location filename="OPACITE/classOpaciteProcFrance2014.cpp" line="873"/>
         <location filename="OPACITE/classOpaciteProcSET.cpp" line="762"/>
         <source>Acceleration in progress</source>
-        <translation type="unfinished"></translation>
+        <translation>Ubrzanje u tijeku</translation>
     </message>
     <message>
         <location filename="OPACITE/classOpaciteProcFrDeterUTAC.cpp" line="819"/>
         <location filename="OPACITE/classOpaciteProcFrance2014.cpp" line="901"/>
         <location filename="OPACITE/classOpaciteProcSET.cpp" line="790"/>
         <source>Wait...</source>
-        <translation type="unfinished"></translation>
+        <translation>Čekaj...</translation>
     </message>
     <message>
         <location filename="OPACITE/classOpaciteProcFrance2014.cpp" line="171"/>
         <location filename="OPACITE/classOpaciteProcSET.cpp" line="139"/>
         <location filename="OPACITE/classopaciteProcNOX.cpp" line="165"/>
         <source>ZERO IN PROGRESS</source>
-        <translation type="unfinished">NULIRANJE U TIJEKU</translation>
+        <translation>NULIRANJE U TIJEKU</translation>
     </message>
     <message>
         <location filename="OPACITE/classOpaciteProcFrance2014.cpp" line="301"/>
@@ -6822,12 +6823,12 @@ Podaci kalkulatora</translation>
     <message>
         <location filename="OPACITE/classOpaciteProcFrance2014.cpp" line="372"/>
         <source>MAINTAIN SPEED</source>
-        <translation type="unfinished"></translation>
+        <translation>DRŽITE OKRETAJE</translation>
     </message>
     <message>
         <location filename="OPACITE/classOpaciteProcFrance2014.cpp" line="372"/>
         <source>AT 50% OF MAXIMUM</source>
-        <translation type="unfinished"></translation>
+        <translation>NA 50% OF MAKSIMALNIH</translation>
     </message>
     <message>
         <location filename="OPACITE/classOpaciteProcFrance2014.cpp" line="732"/>
@@ -6838,19 +6839,19 @@ Podaci kalkulatora</translation>
     <message>
         <location filename="OPACITE/classOpaciteProcFrance2014.cpp" line="732"/>
         <source>Go to maximum RPM</source>
-        <translation type="unfinished"></translation>
+        <translation>Ubrzajte do maksimalnih okretaja</translation>
     </message>
     <message>
         <location filename="OPACITE/classOpaciteProcFrance2014.cpp" line="944"/>
         <source>INVALID MEASURE</source>
-        <translation type="unfinished"></translation>
+        <translation>MJERENJE NIJE VALJANO</translation>
     </message>
     <message>
         <location filename="OPACITE/classOpaciteProcFrance2014.cpp" line="944"/>
         <location filename="OPACITE/classOpaciteProcFrance2014.cpp" line="949"/>
         <location filename="OPACITE/classopaciteProcNOX.cpp" line="494"/>
         <source>Come back to idle speed</source>
-        <translation type="unfinished"></translation>
+        <translation>vratite u prazan hod</translation>
     </message>
     <message>
         <location filename="OPACITE/classOpaciteProcFrance2014.cpp" line="949"/>
@@ -6860,17 +6861,17 @@ Podaci kalkulatora</translation>
     <message>
         <location filename="OPACITE/classOpaciteProcFrance2014.cpp" line="954"/>
         <source>RISING TIME INVALID</source>
-        <translation type="unfinished"></translation>
+        <translation>VRIJEME UBRZAVANJA NIJE VALJANO</translation>
     </message>
     <message>
         <location filename="OPACITE/classOpaciteProcFrance2014.cpp" line="954"/>
         <source>Come Back to idle speed</source>
-        <translation type="unfinished"></translation>
+        <translation>Vratite u prazan hod</translation>
     </message>
     <message>
         <location filename="OPACITE/classOpaciteProcFrance2014.cpp" line="1145"/>
         <source>OPACITY TEST REPORT EURO 5/6</source>
-        <translation type="unfinished"></translation>
+        <translation>Izvjeće zacrnjenosti Euro 5/6</translation>
     </message>
     <message>
         <location filename="OPACITE/classOpaciteProcFrance2014.cpp" line="1154"/>
@@ -6880,12 +6881,12 @@ Podaci kalkulatora</translation>
     <message>
         <location filename="OPACITE/classOpaciteProcFrance2014.cpp" line="1157"/>
         <source>Engine estimated as heated</source>
-        <translation type="unfinished"></translation>
+        <translation>Motor procijenjen zagrijanim</translation>
     </message>
     <message>
         <location filename="OPACITE/classOpaciteProcFrance2014.cpp" line="1158"/>
         <source>Superior or equal to 80 Â°C</source>
-        <translation type="unfinished"></translation>
+        <translation>Iznad ili jednak 80 °C</translation>
     </message>
     <message>
         <location filename="OPACITE/classOpaciteProcFrance2014.cpp" line="1162"/>
@@ -6895,22 +6896,22 @@ Podaci kalkulatora</translation>
     <message>
         <location filename="OPACITE/classOpaciteProcFrance2014.cpp" line="1163"/>
         <source>Idle Speed : </source>
-        <translation type="unfinished"></translation>
+        <translation>Prazan hod: </translation>
     </message>
     <message>
         <location filename="OPACITE/classOpaciteProcFrance2014.cpp" line="1178"/>
         <source>     Opacity Limit:  </source>
-        <translation type="unfinished"></translation>
+        <translation>    Limit zacrnjenosti:  </translation>
     </message>
     <message>
         <location filename="OPACITE/classOpaciteProcFrance2014.cpp" line="1188"/>
         <source>Acceleration NÂ°</source>
-        <translation type="unfinished"></translation>
+        <translation>Akceleracija N°</translation>
     </message>
     <message>
         <location filename="OPACITE/classOpaciteProcFrance2014.cpp" line="1188"/>
         <source>Opacity (mu207bÂ¹)</source>
-        <translation type="unfinished"></translation>
+        <translation>Zacrnjenost (m&lt;sup&gt;-1&lt;/sup&gt;)</translation>
     </message>
     <message>
         <location filename="OPACITE/classOpaciteProcFrance2014.cpp" line="1188"/>
@@ -6920,17 +6921,17 @@ Podaci kalkulatora</translation>
     <message>
         <location filename="OPACITE/classOpaciteProcFrance2014.cpp" line="1188"/>
         <source>Acc time (ms)</source>
-        <translation type="unfinished"></translation>
+        <translation>Vrijeme ubrzavanja (ms)</translation>
     </message>
     <message>
         <location filename="OPACITE/classOpaciteProcFrance2014.cpp" line="1188"/>
         <source>Oil tmp (Â°C)</source>
-        <translation type="unfinished"></translation>
+        <translation>Temp. ulja (°C)</translation>
     </message>
     <message>
         <location filename="OPACITE/classOpaciteProcFrance2014.cpp" line="1209"/>
         <source>Result table</source>
-        <translation type="unfinished"></translation>
+        <translation>Izvještaj</translation>
     </message>
     <message>
         <location filename="OPACITE/classOpaciteProcFrance2014.cpp" line="1214"/>
@@ -6940,7 +6941,7 @@ Podaci kalkulatora</translation>
     <message>
         <location filename="OPACITE/classOpaciteProcFrance2014.cpp" line="1215"/>
         <source>RESULT INACCEPTABLE</source>
-        <translation type="unfinished"></translation>
+        <translation>REZULTAT NIJE PRIHVATLJIV</translation>
     </message>
     <message>
         <location filename="OPACITE/classOpaciteProcFrance2014.cpp" line="1227"/>
@@ -6950,7 +6951,7 @@ Podaci kalkulatora</translation>
     <message>
         <location filename="OPACITE/classOpaciteProcFrance2014.cpp" line="1228"/>
         <source>Result Delta:          </source>
-        <translation type="unfinished"></translation>
+        <translation>Rezultat Delta:          </translation>
     </message>
     <message>
         <location filename="OPACITE/classOpaciteProcFrance2014.cpp" line="1234"/>
@@ -6975,7 +6976,7 @@ Podaci kalkulatora</translation>
     <message>
         <location filename="OPACITE/classOpaciteProcFrance2014.cpp" line="1414"/>
         <source>PLEASE ENTER THE LIMIT</source>
-        <translation type="unfinished"></translation>
+        <translation>MOLIMO UNESITE LIMIT</translation>
     </message>
     <message>
         <location filename="OPACITE/classOpaciteProcSET.cpp" line="679"/>
@@ -6990,88 +6991,88 @@ Podaci kalkulatora</translation>
     <message>
         <location filename="OPACITE/classopaciteProcNOX.cpp" line="327"/>
         <source>PRECONDITIONING</source>
-        <translation type="unfinished">PREDUVJETOVANJE</translation>
+        <translation>PREDUVJETOVANJE</translation>
     </message>
     <message>
         <location filename="OPACITE/classopaciteProcNOX.cpp" line="347"/>
         <source>NOX PROCEDURE</source>
-        <translation type="unfinished"></translation>
+        <translation>NOX PROCEDURA</translation>
     </message>
     <message>
         <location filename="OPACITE/classopaciteProcNOX.cpp" line="347"/>
         <source>PRESS OK TO START</source>
-        <translation type="unfinished"></translation>
+        <translation>PRITISNITE OK ZA POČETAK</translation>
     </message>
     <message>
         <location filename="OPACITE/classopaciteProcNOX.cpp" line="360"/>
         <source>Initialisation : Stay</source>
-        <translation type="unfinished"></translation>
+        <translation>Inicijalizacija: Držite</translation>
     </message>
     <message>
         <location filename="OPACITE/classopaciteProcNOX.cpp" line="360"/>
         <source>at idle speed</source>
-        <translation type="unfinished"></translation>
+        <translation>prazan hod</translation>
     </message>
     <message>
         <location filename="OPACITE/classopaciteProcNOX.cpp" line="391"/>
         <source>Maintain</source>
-        <translation type="unfinished"></translation>
+        <translation>Držite</translation>
     </message>
     <message>
         <location filename="OPACITE/classopaciteProcNOX.cpp" line="391"/>
         <location filename="OPACITE/classopaciteProcNOX.cpp" line="412"/>
         <source>idle speed</source>
-        <translation type="unfinished"></translation>
+        <translation>prazan hod</translation>
     </message>
     <message>
         <location filename="OPACITE/classopaciteProcNOX.cpp" line="412"/>
         <source>Measure NOx at</source>
-        <translation type="unfinished"></translation>
+        <translation>Mjerenje NOx u</translation>
     </message>
     <message>
         <location filename="OPACITE/classopaciteProcNOX.cpp" line="443"/>
         <source>Maintain RPM</source>
-        <translation type="unfinished"></translation>
+        <translation>Držite okretaje</translation>
     </message>
     <message>
         <location filename="OPACITE/classopaciteProcNOX.cpp" line="443"/>
         <source>between 2500 and 3000</source>
-        <translation type="unfinished"></translation>
+        <translation>između 2500 i 3000</translation>
     </message>
     <message>
         <location filename="OPACITE/classopaciteProcNOX.cpp" line="464"/>
         <source>Measure NOx</source>
-        <translation type="unfinished"></translation>
+        <translation>Mjerenje NOx</translation>
     </message>
     <message>
         <location filename="OPACITE/classopaciteProcNOX.cpp" line="464"/>
         <source>at high idle speed</source>
-        <translation type="unfinished"></translation>
+        <translation>na povišenim okretajima</translation>
     </message>
     <message>
         <location filename="OPACITE/classopaciteProcNOX.cpp" line="494"/>
         <source>Get ready for free acceleration</source>
-        <translation type="unfinished"></translation>
+        <translation>Budite spremni za kraj ubrzavanja</translation>
     </message>
     <message>
         <location filename="OPACITE/classopaciteProcNOX.cpp" line="508"/>
         <source>Accelerate to cut off RPM</source>
-        <translation type="unfinished"></translation>
+        <translation>Ubrzajte do makismalnih okretaja</translation>
     </message>
     <message>
         <location filename="OPACITE/classopaciteProcNOX.cpp" line="508"/>
         <source> And come back to idle speed </source>
-        <translation type="unfinished"></translation>
+        <translation>i vratite se u prazan hod </translation>
     </message>
     <message>
         <location filename="OPACITE/classopaciteProcNOX.cpp" line="553"/>
         <source>RESULT</source>
-        <translation type="unfinished">REZULTAT</translation>
+        <translation>REZULTAT</translation>
     </message>
     <message>
         <location filename="OPACITE/classopaciteProcNOX.cpp" line="568"/>
         <source>TEST  NOx CONFORM</source>
-        <translation type="unfinished"></translation>
+        <translation>ISPIT NOx PROŠAO</translation>
     </message>
     <message>
         <location filename="OPACITE/classopaciteProcNOX.cpp" line="572"/>
@@ -7081,17 +7082,17 @@ Podaci kalkulatora</translation>
     <message>
         <location filename="OPACITE/classopaciteProcNOX.cpp" line="574"/>
         <source>TEST NOx NO CONFORM</source>
-        <translation type="unfinished"></translation>
+        <translation>ISPIT NOx NIJE PROŠAO</translation>
     </message>
     <message>
         <location filename="OPACITE/classopaciteProcNOX.cpp" line="589"/>
         <source>OK FOR LAUNCHING</source>
-        <translation type="unfinished"></translation>
+        <translation>OK ZA POKRETANJE</translation>
     </message>
     <message>
         <location filename="OPACITE/classopaciteProcNOX.cpp" line="589"/>
         <source>OPACITY PROCEDURE</source>
-        <translation type="unfinished"></translation>
+        <translation>PROCEDURE ZACRNJENOSTI</translation>
     </message>
 </context>
 <context>
@@ -7104,7 +7105,7 @@ Podaci kalkulatora</translation>
     <message>
         <location filename="classconfig.cpp" line="880"/>
         <source>Operator name certificate</source>
-        <translation type="unfinished"></translation>
+        <translation>Naziv certifikata operatera</translation>
     </message>
 </context>
 <context>
@@ -7210,7 +7211,7 @@ Podaci kalkulatora</translation>
     <message>
         <location filename="classconfig.cpp" line="3722"/>
         <source>Date test:</source>
-        <translation type="unfinished"></translation>
+        <translation>Datum:</translation>
     </message>
     <message>
         <location filename="classconfig.cpp" line="3811"/>
@@ -7225,7 +7226,7 @@ Podaci kalkulatora</translation>
     <message>
         <location filename="classconfig.cpp" line="4058"/>
         <source>Select Repertory destination</source>
-        <translation type="unfinished"></translation>
+        <translation>Odaberi odredište</translation>
     </message>
     <message>
         <location filename="classconfig.cpp" line="4236"/>
@@ -7358,7 +7359,7 @@ TIP</translation>
     <message>
         <location filename="CONFIGURATION/classConfigGaz.cpp" line="208"/>
         <source>RPM o. o. r.</source>
-        <translation>RPM o. o. r.</translation>
+        <translation>OKRETAJI o. o. r.</translation>
     </message>
     <message>
         <location filename="CONFIGURATION/classConfigGaz.cpp" line="211"/>
@@ -8024,52 +8025,52 @@ sa dimometrom</translation>
     <message>
         <location filename="classconfig.cpp" line="8065"/>
         <source>StandBy Screen</source>
-        <translation type="unfinished"></translation>
+        <translation>Ekran u mirovanju</translation>
     </message>
     <message>
         <location filename="classconfig.cpp" line="8082"/>
         <source>Display StandBy Screen 1</source>
-        <translation type="unfinished"></translation>
+        <translation>Ekran u mirovanju 1</translation>
     </message>
     <message>
         <location filename="classconfig.cpp" line="8087"/>
         <source>Message 1</source>
-        <translation type="unfinished"></translation>
+        <translation>Poruka 1</translation>
     </message>
     <message>
         <location filename="classconfig.cpp" line="8097"/>
         <location filename="classconfig.cpp" line="8157"/>
         <source>Picture</source>
-        <translation type="unfinished"></translation>
+        <translation>Slika</translation>
     </message>
     <message>
         <location filename="classconfig.cpp" line="8123"/>
         <location filename="classconfig.cpp" line="8182"/>
         <source>Display Time(S)</source>
         <oldsource>Display time</oldsource>
-        <translation type="unfinished"></translation>
+        <translation>Vrijeme (s)</translation>
     </message>
     <message>
         <location filename="classconfig.cpp" line="8142"/>
         <source>Display StandBy Screen 2</source>
-        <translation type="unfinished"></translation>
+        <translation>Ekran u mirovanju 2</translation>
     </message>
     <message>
         <location filename="classconfig.cpp" line="8146"/>
         <source>Message 2</source>
-        <translation type="unfinished"></translation>
+        <translation>Poruka 2</translation>
     </message>
     <message>
         <location filename="classconfig.cpp" line="8441"/>
         <location filename="classconfig.cpp" line="8499"/>
         <source>Open picture</source>
-        <translation type="unfinished">Otvori sliku</translation>
+        <translation>Otvori sliku</translation>
     </message>
     <message>
         <location filename="classconfig.cpp" line="8443"/>
         <location filename="classconfig.cpp" line="8501"/>
         <source>Documents (*.jpg *.png);;All files (*.*)</source>
-        <translation type="unfinished"></translation>
+        <translation>Dokumenti.(*.jpg *.png);;Sve datoteke (*.*)</translation>
     </message>
 </context>
 <context>
@@ -8226,12 +8227,12 @@ sud</translation>
     <message>
         <location filename="listeimmat.cpp" line="23"/>
         <source>Auto.</source>
-        <translation type="unfinished"></translation>
+        <translation>Automatski</translation>
     </message>
     <message>
         <location filename="listeimmat.cpp" line="28"/>
         <source>Manu.</source>
-        <translation type="unfinished"></translation>
+        <translation>Ručno</translation>
     </message>
     <message>
         <location filename="listeimmat.cpp" line="82"/>
@@ -8336,7 +8337,7 @@ sud</translation>
         <location filename="qprintereasy.cpp" line="2122"/>
         <location filename="qprintereasy.cpp" line="2224"/>
         <source>Produced on</source>
-        <translation>Proizvedeno</translation>
+        <translation>Provedeno</translation>
     </message>
     <message>
         <location filename="qprintereasy.cpp" line="2122"/>
@@ -8353,27 +8354,27 @@ sud</translation>
     <message>
         <location filename="qprintereasy.cpp" line="2688"/>
         <source>Poznámky:</source>
-        <translation type="unfinished"></translation>
+        <translation>Bilješke:</translation>
     </message>
     <message>
         <location filename="qprintereasy.cpp" line="2712"/>
         <source>Vozidlo z hlediska měření emisí</source>
-        <translation type="unfinished"></translation>
+        <translation>Vozilo kod mjerenja emisija</translation>
     </message>
     <message>
         <location filename="qprintereasy.cpp" line="2714"/>
         <source>PASSED TEST</source>
-        <translation type="unfinished">ISPIT POLOŽEN</translation>
+        <translation>ISPIT PROŠAO</translation>
     </message>
     <message>
         <location filename="qprintereasy.cpp" line="2716"/>
         <source>FAILED TEST</source>
-        <translation type="unfinished">ISPIT NIJE POLOŽEN</translation>
+        <translation>ISPIT NIJE PROŠAO</translation>
     </message>
     <message>
         <location filename="qprintereasy.cpp" line="2719"/>
         <source>Příští měření emisí v termínu do &lt;b&gt;</source>
-        <translation type="unfinished"></translation>
+        <translation>Mjerenje emisija u razdoblju od &lt;b&gt;</translation>
     </message>
     <message>
         <location filename="qprintereasy.h" line="90"/>
@@ -9276,7 +9277,7 @@ sud</translation>
     <message>
         <location filename="EOBD/textesobd.cpp" line="206"/>
         <source>Driver&apos;s Demand Engine-Percent Torque</source>
-        <translation type="unfinished">Vozaćevi zahtjevi vozila postotak momenta </translation>
+        <translation>Vozačevi zahtjevi postotka oktretnog momenta motora</translation>
     </message>
     <message>
         <location filename="EOBD/textesobd.cpp" line="207"/>
@@ -10371,98 +10372,98 @@ sud</translation>
         <location filename="webplanningnav.cpp" line="46"/>
         <location filename="webplanningnav.cpp" line="181"/>
         <source>(Nouvelle page)</source>
-        <translation type="unfinished">(Nova stranica)</translation>
+        <translation>(Nova stranica)</translation>
     </message>
     <message>
         <location filename="webplanningnav.cpp" line="59"/>
         <source>&amp;Nouvel onglet</source>
-        <translation type="unfinished"></translation>
+        <translation></translation>
     </message>
     <message>
         <location filename="webplanningnav.cpp" line="60"/>
         <source>Ctrl+T</source>
-        <translation type="unfinished">Ctrl+T</translation>
+        <translation>Ctrl+T</translation>
     </message>
     <message>
         <location filename="webplanningnav.cpp" line="62"/>
         <source>&amp;Fermer l&apos;onglet</source>
-        <translation type="unfinished"></translation>
+        <translation>&amp;F Zatvori karticu</translation>
     </message>
     <message>
         <location filename="webplanningnav.cpp" line="63"/>
         <source>Ctrl+W</source>
-        <translation type="unfinished">Ctrl+W</translation>
+        <translation>Ctrl+W</translation>
     </message>
     <message>
         <location filename="webplanningnav.cpp" line="65"/>
         <source>&amp;Quitter</source>
-        <translation type="unfinished"></translation>
+        <translation>&amp;Quit</translation>
     </message>
     <message>
         <location filename="webplanningnav.cpp" line="66"/>
         <source>Ctrl+Q</source>
-        <translation type="unfinished">Ctrl+Q</translation>
+        <translation>Ctrl+Q</translation>
     </message>
     <message>
         <location filename="webplanningnav.cpp" line="69"/>
         <source>&amp;Precedente</source>
-        <translation type="unfinished"></translation>
+        <translation>&amp;Prethodno</translation>
     </message>
     <message>
         <location filename="webplanningnav.cpp" line="77"/>
         <source>&amp;Actualiser</source>
-        <translation type="unfinished">&amp;Osvježi</translation>
+        <translation>&amp;Osvježi</translation>
     </message>
     <message>
         <location filename="webplanningnav.cpp" line="85"/>
         <source>Quitter</source>
-        <translation type="unfinished">Ostaviti</translation>
+        <translation>Zatvoriti</translation>
     </message>
     <message>
         <location filename="webplanningnav.cpp" line="98"/>
         <source>&amp;A propos...</source>
-        <translation type="unfinished">O &amp;nama...</translation>
+        <translation>&amp;A o nama...</translation>
     </message>
     <message>
         <location filename="webplanningnav.cpp" line="109"/>
         <source> </source>
-        <translation type="unfinished"> </translation>
+        <translation> </translation>
     </message>
     <message>
         <location filename="webplanningnav.cpp" line="121"/>
         <source>Navigation</source>
-        <translation type="unfinished">Navigacija</translation>
+        <translation>Navigacija</translation>
     </message>
     <message>
         <location filename="webplanningnav.cpp" line="176"/>
         <source>A propos...</source>
-        <translation type="unfinished">O nama...</translation>
+        <translation>O nama...</translation>
     </message>
     <message>
         <location filename="webplanningnav.cpp" line="197"/>
         <source>Erreur</source>
-        <translation type="unfinished">Pogreška</translation>
+        <translation>Pogreška</translation>
     </message>
     <message>
         <location filename="webplanningnav.cpp" line="197"/>
         <source>Il faut au moins un onglet !</source>
-        <translation type="unfinished">Potrebno je barem karticu!</translation>
+        <translation>Potrebno je barem karticu!</translation>
     </message>
     <message>
         <location filename="webplanningnav.cpp" line="234"/>
         <source>capelec</source>
-        <translation type="unfinished">capelec</translation>
+        <translation>capelec</translation>
     </message>
     <message>
         <location filename="webplanningnav.cpp" line="241"/>
         <location filename="webplanningnav.cpp" line="300"/>
         <source>html/page_blanche.html</source>
-        <translation type="unfinished">html/page_blanche.html</translation>
+        <translation>html/page_blanche.html</translation>
     </message>
     <message>
         <location filename="webplanningnav.cpp" line="260"/>
         <source>Pr�t</source>
-        <translation type="unfinished">Pr�t</translation>
+        <translation>Pr�t</translation>
     </message>
 </context>
 <context>
@@ -10472,49 +10473,49 @@ sud</translation>
         <location filename="classboxupdate.cpp" line="573"/>
         <source>Search UPDATE</source>
         <oldsource>Search MAJ</oldsource>
-        <translation type="unfinished"></translation>
+        <translation>Traži ažuriranje</translation>
     </message>
     <message>
         <location filename="classboxupdate.cpp" line="261"/>
         <source>UPDATE</source>
-        <translation type="unfinished">UPDATE</translation>
+        <translation>AŽURIRANJE</translation>
     </message>
     <message>
         <location filename="classboxupdate.cpp" line="280"/>
         <source>RESTORE    </source>
-        <translation type="unfinished"></translation>
+        <translation>OBNOVI    </translation>
     </message>
     <message>
         <location filename="classboxupdate.cpp" line="363"/>
         <source>KEEP BUTTON 1 PRESSED AND</source>
         <oldsource>PUSH ON BUTTON 1 THEN</oldsource>
-        <translation type="unfinished"></translation>
+        <translation>PRITISNI GUMB 1 I</translation>
     </message>
     <message>
         <location filename="classboxupdate.cpp" line="363"/>
         <source>A,B,C OR D</source>
-        <translation type="unfinished"></translation>
+        <translation>A,B,C ILI D</translation>
     </message>
     <message>
         <location filename="classboxupdate.cpp" line="363"/>
         <source>If the link is established</source>
-        <translation type="unfinished"></translation>
+        <translation>Ako je veza uspostavljena</translation>
     </message>
     <message>
         <location filename="classboxupdate.cpp" line="363"/>
         <source>PUSH SIMULTANEOUSLY ON DEDICATED BUTTON</source>
-        <translation type="unfinished"></translation>
+        <translation>PRITISNITE ISTOVREMENO</translation>
     </message>
     <message>
         <location filename="classboxupdate.cpp" line="364"/>
         <source>CAPS LOCK and SCROLL LOCK leds</source>
         <oldsource>CAPS LOCK and SCROLL LOCK</oldsource>
-        <translation type="unfinished"></translation>
+        <translation>CAPS LOCK I SCROLL LOCK SVJETLA</translation>
     </message>
     <message>
         <location filename="classboxupdate.cpp" line="364"/>
         <source>turned off</source>
-        <translation type="unfinished"></translation>
+        <translation>Ugašena</translation>
     </message>
 </context>
 <context>
@@ -10522,32 +10523,32 @@ sud</translation>
     <message>
         <location filename="classcontainerlpgczech.cpp" line="8"/>
         <source>Inspection of LPG/CNG container:</source>
-        <translation type="unfinished"></translation>
+        <translation>Inspekcija LPG/CNG spremnika:</translation>
     </message>
     <message>
         <location filename="classcontainerlpgczech.cpp" line="15"/>
         <source>Container N°</source>
-        <translation type="unfinished"></translation>
+        <translation>Spremnik N°</translation>
     </message>
     <message>
         <location filename="classcontainerlpgczech.cpp" line="24"/>
         <source>Manufacturer</source>
-        <translation type="unfinished"></translation>
+        <translation>Proizvođač</translation>
     </message>
     <message>
         <location filename="classcontainerlpgczech.cpp" line="24"/>
         <source>Approval N°</source>
-        <translation type="unfinished"></translation>
+        <translation>Odobrenje N°</translation>
     </message>
     <message>
         <location filename="classcontainerlpgczech.cpp" line="24"/>
         <source>LifeTime</source>
-        <translation type="unfinished"></translation>
+        <translation>Životni vijek</translation>
     </message>
     <message>
         <location filename="classcontainerlpgczech.cpp" line="24"/>
         <source>Visual Check</source>
-        <translation type="unfinished"></translation>
+        <translation>Vizualni pregled</translation>
     </message>
 </context>
 <context>
@@ -10956,7 +10957,7 @@ sud</translation>
     <message>
         <location filename="webnavigator.cpp" line="45"/>
         <source>http://www.capelec.fr/fr/sav.php</source>
-        <translation>http://www.capelec.fr/fr/sav.php</translation>
+        <translation>http://www.capelec.fr/en/contact-us.html</translation>
     </message>
     <message>
         <location filename="webnavigator.cpp" line="45"/>
@@ -10982,7 +10983,7 @@ sud</translation>
     <message>
         <location filename="webnavigator.cpp" line="82"/>
         <source>&amp;Nouvel onglet</source>
-        <translation type="unfinished"></translation>
+        <translation>&amp;Nova kartica</translation>
     </message>
     <message>
         <location filename="webnavigator.cpp" line="83"/>
@@ -10992,7 +10993,7 @@ sud</translation>
     <message>
         <location filename="webnavigator.cpp" line="85"/>
         <source>&amp;Fermer l&apos;onglet</source>
-        <translation></translation>
+        <translation>&amp;F Zatvori karticu</translation>
     </message>
     <message>
         <location filename="webnavigator.cpp" line="86"/>
@@ -11002,7 +11003,7 @@ sud</translation>
     <message>
         <location filename="webnavigator.cpp" line="88"/>
         <source>&amp;Quitter</source>
-        <translation></translation>
+        <translation>&amp;Quit</translation>
     </message>
     <message>
         <location filename="webnavigator.cpp" line="89"/>
@@ -11012,7 +11013,7 @@ sud</translation>
     <message>
         <location filename="webnavigator.cpp" line="92"/>
         <source>&amp;Precedente</source>
-        <translation type="unfinished"></translation>
+        <translation>&amp;Prethodno</translation>
     </message>
     <message>
         <location filename="webnavigator.cpp" line="95"/>
@@ -11052,7 +11053,7 @@ sud</translation>
     <message>
         <location filename="webnavigator.cpp" line="114"/>
         <source>Videos Capelec</source>
-        <translation type="unfinished"></translation>
+        <translation>Capelec videi</translation>
     </message>
     <message>
         <location filename="webnavigator.cpp" line="121"/>
@@ -11073,7 +11074,7 @@ sud</translation>
         <location filename="webnavigator.cpp" line="247"/>
         <location filename="webnavigator.cpp" line="438"/>
         <source>http://www.capelec.fr</source>
-        <translation>http://www.capelec.fr</translation>
+        <translation>http://www.capelec.fr/en/home.html</translation>
     </message>
     <message>
         <location filename="webnavigator.cpp" line="263"/>
@@ -11099,7 +11100,7 @@ sud</translation>
         <location filename="webnavigator.cpp" line="325"/>
         <location filename="webnavigator.cpp" line="382"/>
         <source>html/page_blanche.html</source>
-        <translation type="unfinished">html/page_blanche.html</translation>
+        <translation>html/page_blanche.html</translation>
     </message>
     <message>
         <location filename="webnavigator.cpp" line="344"/>
