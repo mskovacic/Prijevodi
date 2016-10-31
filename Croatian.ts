@@ -2196,7 +2196,7 @@ i ažuriranje će biti gotovo</translation>
         <location filename="classfond.cpp" line="82"/>
         <location filename="classfond.cpp" line="84"/>
         <source>Do you want to exit software?</source>
-        <translation>Želite li izači iz programa?</translation>
+        <translation>Želite li izaći iz programa?</translation>
     </message>
 </context>
 <context>
@@ -4111,7 +4111,7 @@ i ažuriranje će biti gotovo</translation>
     <message>
         <location filename="GAZ/classanalyseur.cpp" line="7808"/>
         <source>RPM</source>
-        <translation>RPM</translation>
+        <translation>Okretaji</translation>
     </message>
     <message>
         <location filename="GAZ/classAnalyseurPortuguese.cpp" line="1119"/>
@@ -5019,7 +5019,7 @@ i ažuriranje će biti gotovo</translation>
         <location filename="EOBD/classEobdCTPolish.cpp" line="1046"/>
         <location filename="EOBD/classEobdCTPolish.cpp" line="1279"/>
         <source> RPM</source>
-        <translation> RPM</translation>
+        <translation>Okretaji</translation>
     </message>
     <message>
         <location filename="EOBD/classEobdCTPolish.cpp" line="1365"/>
@@ -5545,7 +5545,7 @@ Podaci kalkulatora</translation>
         <location filename="OPACITE/classOpciteProcPortuguese.cpp" line="187"/>
         <location filename="OPACITE/classopaciteanalyse.cpp" line="244"/>
         <source>CONNECT THE RPM</source>
-        <translation>SPOJITE RPM</translation>
+        <translation>SPOJITE MJERAČ OKRETAJA</translation>
     </message>
     <message>
         <location filename="OPACITE/classOpaciteProcBelgian.cpp" line="188"/>
@@ -5713,7 +5713,7 @@ Podaci kalkulatora</translation>
         <location filename="OPACITE/classOpciteProcPortuguese.cpp" line="579"/>
         <location filename="OPACITE/classopaciteanalyse.cpp" line="621"/>
         <source>RPM Min.</source>
-        <translation>RPM Min.</translation>
+        <translation>Okretaji min.</translation>
     </message>
     <message>
         <location filename="OPACITE/classOpaciteProcBelgian.cpp" line="878"/>
@@ -5729,7 +5729,7 @@ Podaci kalkulatora</translation>
         <location filename="OPACITE/classOpciteProcPortuguese.cpp" line="579"/>
         <location filename="OPACITE/classopaciteanalyse.cpp" line="621"/>
         <source>RPM Max.</source>
-        <translation>RPM Max.</translation>
+        <translation>Okretaji max.</translation>
     </message>
     <message>
         <location filename="OPACITE/classOpaciteProcBelgian.cpp" line="896"/>
@@ -6466,7 +6466,7 @@ Podaci kalkulatora</translation>
         <location filename="OPACITE/classopacite.cpp" line="408"/>
         <location filename="OPACITE/classopacite.cpp" line="421"/>
         <source>RPM</source>
-        <translation>RPM</translation>
+        <translation>Okretaji</translation>
     </message>
     <message>
         <location filename="OPACITE/classopacite.cpp" line="412"/>
@@ -7077,7 +7077,7 @@ SLOBODNO MJERENJE</translation>
     <message>
         <location filename="OPACITE/classopaciteProcNOX.cpp" line="572"/>
         <source>NOx : LITIGE</source>
-        <translation type="unfinished"></translation>
+        <translation>NOx : LIMIT</translation>
     </message>
     <message>
         <location filename="OPACITE/classopaciteProcNOX.cpp" line="574"/>
@@ -7439,7 +7439,7 @@ TIP</translation>
     <message>
         <location filename="CONFIGURATION/classConfigGaz.cpp" line="256"/>
         <source>New RPM data</source>
-        <translation>Novi PRM podaci</translation>
+        <translation>Novi RPM podaci</translation>
     </message>
     <message>
         <location filename="CONFIGURATION/classConfigGaz.cpp" line="259"/>
@@ -10362,7 +10362,7 @@ sud</translation>
     <message>
         <location filename="EOBD/textesobd.cpp" line="434"/>
         <source>rpm</source>
-        <translation>rpm</translation>
+        <translation>okretaja</translation>
     </message>
 </context>
 <context>
@@ -10862,7 +10862,7 @@ sud</translation>
         <location filename="message.cpp" line="1802"/>
         <location filename="message.cpp" line="2033"/>
         <source>RPM Selection</source>
-        <translation>RPM odabir</translation>
+        <translation>Odabir okretaja</translation>
     </message>
     <message>
         <location filename="message.cpp" line="348"/>
