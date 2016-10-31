@@ -469,7 +469,7 @@
         <location filename="cap3400.cpp" line="1555"/>
         <location filename="cap3400.cpp" line="1573"/>
         <source>Gas Analyzer</source>
-        <translation>Analizator plina</translation>
+        <translation>Analizator ispušnih plinova</translation>
     </message>
     <message>
         <location filename="cap3400.cpp" line="1552"/>
@@ -1786,7 +1786,7 @@ i ažuriranje će biti gotovo</translation>
     <message>
         <location filename="classconfig.cpp" line="62"/>
         <source>Gas Analyzer</source>
-        <translation>Analizator plina</translation>
+        <translation>Analizator ispušnih plinova</translation>
     </message>
     <message>
         <location filename="classconfig.cpp" line="63"/>
@@ -2868,7 +2868,7 @@ i ažuriranje će biti gotovo</translation>
         <location filename="GAZ/classAnalyseurStandard.cpp" line="947"/>
         <location filename="GAZ/classAnalyseurStandard2002.cpp" line="430"/>
         <source>GAS ANALYZER</source>
-        <translation>ANALIZATOR PLINA</translation>
+        <translation>ANALIZATOR ISPUŠNIH PLINOVA</translation>
     </message>
     <message>
         <location filename="GAZ/classAnalyseurCzech.cpp" line="2975"/>
@@ -3199,7 +3199,7 @@ i ažuriranje će biti gotovo</translation>
         <location filename="GAZ/classAnalyseurStandard.cpp" line="1022"/>
         <location filename="GAZ/classAnalyseurStandard2002.cpp" line="500"/>
         <source>PASSED TEST</source>
-        <translation>ISPIT POLOŽEN</translation>
+        <translation>ISPIT PROŠAO</translation>
     </message>
     <message>
         <location filename="GAZ/classAnalyseurCzech.cpp" line="3256"/>
@@ -3217,7 +3217,7 @@ i ažuriranje će biti gotovo</translation>
         <location filename="GAZ/classAnalyseurStandard.cpp" line="1024"/>
         <location filename="GAZ/classAnalyseurStandard2002.cpp" line="502"/>
         <source>FAILED TEST</source>
-        <translation>ISPIT NIJE POLOŽEN</translation>
+        <translation>ISPIT NIJE PROŠAO</translation>
     </message>
     <message>
         <location filename="GAZ/classAnalyseurCzech.cpp" line="3586"/>
@@ -3934,13 +3934,13 @@ i ažuriranje će biti gotovo</translation>
         <location filename="GAZ/classanalyseur.cpp" line="5008"/>
         <location filename="GAZ/classanalyseur.cpp" line="5208"/>
         <source>Leak check Pass</source>
-        <translation>Provjera curenja položena</translation>
+        <translation>Provjera curenja prošla</translation>
     </message>
     <message>
         <location filename="GAZ/classanalyseur.cpp" line="5016"/>
         <location filename="GAZ/classanalyseur.cpp" line="5216"/>
         <source>Leak check failed</source>
-        <translation>Provjera curenja nije položena</translation>
+        <translation>Provjera curenja nije prošla</translation>
     </message>
     <message>
         <location filename="GAZ/classanalyseur.cpp" line="5016"/>
@@ -3952,7 +3952,7 @@ i ažuriranje će biti gotovo</translation>
         <location filename="GAZ/classanalyseur.cpp" line="5016"/>
         <location filename="GAZ/classanalyseur.cpp" line="5216"/>
         <source>be passed before</source>
-        <translation>mora biti položena</translation>
+        <translation>mora biti ispravna</translation>
     </message>
     <message>
         <location filename="GAZ/classanalyseur.cpp" line="5016"/>
@@ -4096,7 +4096,7 @@ i ažuriranje će biti gotovo</translation>
     <message>
         <location filename="GAZ/classanalyseur.cpp" line="7774"/>
         <source>Test report gas analyzer</source>
-        <translation>Izvješće ispita analizatora plinova</translation>
+        <translation>ANALIZATOR ISPUŠNIH PLINOVA</translation>
     </message>
     <message>
         <location filename="GAZ/classanalyseur.cpp" line="7785"/>
@@ -6911,7 +6911,7 @@ SLOBODNO MJERENJE</translation>
     <message>
         <location filename="OPACITE/classOpaciteProcFrance2014.cpp" line="1188"/>
         <source>Opacity (mu207bÂ¹)</source>
-        <translation>Zacrnjenost (m&lt;sup&gt;-1&lt;/sup&gt;)</translation>
+        <translation>Zacrnjenost (mu207bÂ¹)</translation>
     </message>
     <message>
         <location filename="OPACITE/classOpaciteProcFrance2014.cpp" line="1188"/>
@@ -6931,7 +6931,7 @@ SLOBODNO MJERENJE</translation>
     <message>
         <location filename="OPACITE/classOpaciteProcFrance2014.cpp" line="1209"/>
         <source>Result table</source>
-        <translation>Izvještaj</translation>
+        <translation>OPIS</translation>
     </message>
     <message>
         <location filename="OPACITE/classOpaciteProcFrance2014.cpp" line="1214"/>
@@ -7948,7 +7948,7 @@ VENTILATORA:</translation>
     <message>
         <location filename="CONFIGURATION/classConfigOpa.cpp" line="1309"/>
         <source>Electrical Filter Test Passed</source>
-        <translation>Test električnog filtera položen</translation>
+        <translation>Ispit električnog filtera prošao</translation>
     </message>
     <message>
         <location filename="CONFIGURATION/classConfigOpa.cpp" line="1309"/>
@@ -7965,7 +7965,7 @@ VENTILATORA:</translation>
     <message>
         <location filename="CONFIGURATION/classConfigOpa.cpp" line="1315"/>
         <source>Electrical Filter Test FAILED</source>
-        <translation>Test električnog filtera NIJE POLOŽEN</translation>
+        <translation>Ispit električnog filtera NIJE PROŠAO</translation>
     </message>
     <message>
         <location filename="CONFIGURATION/classConfigOpa.cpp" line="1422"/>
