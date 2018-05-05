@@ -61,7 +61,7 @@
     <message>
         <location filename="cap3400.cpp" line="805"/>
         <source>Procedure Essais comparatifs</source>
-        <translation></translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <location filename="cap3400.cpp" line="806"/>
@@ -356,25 +356,25 @@
         <location filename="cap3400.cpp" line="1266"/>
         <source>Peso prueba &lt; 3.5t &lt; 01/01/1999</source>
         <comment>COSTARICA CATEGORY SMOKEMETER</comment>
-        <translation></translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <location filename="cap3400.cpp" line="1267"/>
         <source>Peso prueba &lt; 3.5t ≥ 01/01/1999</source>
         <comment>COSTARICA CATEGORY SMOKEMETER</comment>
-        <translation></translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <location filename="cap3400.cpp" line="1268"/>
         <source>Peso prueba ≥ 3.5t &lt; 01/01/1999</source>
         <comment>COSTARICA CATEGORY SMOKEMETER</comment>
-        <translation></translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <location filename="cap3400.cpp" line="1269"/>
         <source>Peso prueba ≥ 3.5t ≥ 01/01/1999</source>
         <comment>COSTARICA CATEGORY SMOKEMETER</comment>
-        <translation></translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <location filename="cap3400.cpp" line="1301"/>
@@ -409,7 +409,7 @@
         <location filename="cap3400.cpp" line="1341"/>
         <source>Calibration Requierement</source>
         <comment>ONLY POLISH VERSION</comment>
-        <translation></translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <location filename="cap3400.cpp" line="1363"/>
