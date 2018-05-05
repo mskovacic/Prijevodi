@@ -61,7 +61,7 @@
     <message>
         <location filename="cap3400.cpp" line="805"/>
         <source>Procedure Essais comparatifs</source>
-        <translation type="unfinished"></translation>
+        <translation></translation>
     </message>
     <message>
         <location filename="cap3400.cpp" line="806"/>
@@ -356,25 +356,25 @@
         <location filename="cap3400.cpp" line="1266"/>
         <source>Peso prueba &lt; 3.5t &lt; 01/01/1999</source>
         <comment>COSTARICA CATEGORY SMOKEMETER</comment>
-        <translation type="unfinished"></translation>
+        <translation></translation>
     </message>
     <message>
         <location filename="cap3400.cpp" line="1267"/>
         <source>Peso prueba &lt; 3.5t ≥ 01/01/1999</source>
         <comment>COSTARICA CATEGORY SMOKEMETER</comment>
-        <translation type="unfinished"></translation>
+        <translation></translation>
     </message>
     <message>
         <location filename="cap3400.cpp" line="1268"/>
         <source>Peso prueba ≥ 3.5t &lt; 01/01/1999</source>
         <comment>COSTARICA CATEGORY SMOKEMETER</comment>
-        <translation type="unfinished"></translation>
+        <translation></translation>
     </message>
     <message>
         <location filename="cap3400.cpp" line="1269"/>
         <source>Peso prueba ≥ 3.5t ≥ 01/01/1999</source>
         <comment>COSTARICA CATEGORY SMOKEMETER</comment>
-        <translation type="unfinished"></translation>
+        <translation></translation>
     </message>
     <message>
         <location filename="cap3400.cpp" line="1301"/>
@@ -409,7 +409,7 @@
         <location filename="cap3400.cpp" line="1341"/>
         <source>Calibration Requierement</source>
         <comment>ONLY POLISH VERSION</comment>
-        <translation type="unfinished"></translation>
+        <translation></translation>
     </message>
     <message>
         <location filename="cap3400.cpp" line="1363"/>
@@ -1504,54 +1504,54 @@ i ažuriranje će biti gotovo</translation>
     <message>
         <location filename="classclientCzech.cpp" line="34"/>
         <source>Limit RPM Fast Idle High</source>
-        <translation type="unfinished"></translation>
+        <translation>Max povišeni okr</translation>
     </message>
     <message>
         <location filename="classclientCzech.cpp" line="34"/>
         <source>Limit RPM Fast Idle Lo</source>
-        <translation type="unfinished"></translation>
+        <translation>Min povišeni okr</translation>
     </message>
     <message>
         <location filename="classclientCzech.cpp" line="34"/>
         <location filename="classclientCzech.cpp" line="35"/>
         <source>Limit HC</source>
-        <translation type="unfinished"></translation>
+        <translation>HC max</translation>
     </message>
     <message>
         <location filename="classclientCzech.cpp" line="35"/>
         <source>Limit RPM Idle High</source>
-        <translation type="unfinished"></translation>
+        <translation>Max prazni hod</translation>
     </message>
     <message>
         <location filename="classclientCzech.cpp" line="35"/>
         <source>Limit RPM Idle lo</source>
-        <translation type="unfinished"></translation>
+        <translation>Min prazni hod</translation>
     </message>
     <message>
         <location filename="classclientCzech.cpp" line="38"/>
         <source>Limit RPM High</source>
-        <translation type="unfinished"></translation>
+        <translation>Max okretaji</translation>
     </message>
     <message>
         <location filename="classclientCzech.cpp" line="38"/>
         <source>Limit RPM Idle</source>
-        <translation type="unfinished"></translation>
+        <translation>Max prazni hod</translation>
     </message>
     <message>
         <location filename="classclientCzech.cpp" line="34"/>
         <location filename="classclientCzech.cpp" line="35"/>
         <source>Limit Co</source>
-        <translation type="unfinished"></translation>
+        <translation>Co max</translation>
     </message>
     <message>
         <location filename="classclientCzech.cpp" line="34"/>
         <source>Limit Lambda Lo</source>
-        <translation type="unfinished"></translation>
+        <translation>Lambda min</translation>
     </message>
     <message>
         <location filename="classclientCzech.cpp" line="34"/>
         <source>Limit Lambda Hi</source>
-        <translation type="unfinished"></translation>
+        <translation>Lambda max</translation>
     </message>
     <message>
         <location filename="classclientCzech.cpp" line="36"/>
@@ -1566,7 +1566,7 @@ i ažuriranje će biti gotovo</translation>
     <message>
         <location filename="classclientCzech.cpp" line="38"/>
         <source>Bandwidth</source>
-        <translation>Bandwidth</translation>
+        <translation>Dozvoljeni raspon</translation>
     </message>
     <message>
         <location filename="classclientCzech.cpp" line="200"/>
@@ -7254,12 +7254,12 @@ SLOBODNO MJERENJE</translation>
     <message>
         <location filename="CONFIGURATION/classConfigGaz.cpp" line="88"/>
         <source>SOL. 1</source>
-        <translation>SOL. 1</translation>
+        <translation type="unfinished">Vent. 1</translation>
     </message>
     <message>
         <location filename="CONFIGURATION/classConfigGaz.cpp" line="88"/>
         <source>SOL. 2</source>
-        <translation>SOL. 2</translation>
+        <translation>Vent. 2</translation>
     </message>
     <message>
         <location filename="CONFIGURATION/classConfigGaz.cpp" line="88"/>
@@ -7379,7 +7379,7 @@ TIP</translation>
     <message>
         <location filename="CONFIGURATION/classConfigGaz.cpp" line="220"/>
         <source>Solenoid 1</source>
-        <translation>Solenoid 1</translation>
+        <translation>Ventil 1</translation>
     </message>
     <message>
         <location filename="CONFIGURATION/classConfigGaz.cpp" line="223"/>
